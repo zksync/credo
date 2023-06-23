@@ -66,6 +66,8 @@ It aligns with the ZK vision and will empower individuals globally, regardless o
 
 ## The Collective Action
 
+![The Collective Action](the-collective-action.jpeg)
+
 ZK Principles empower a network where trust in operators is not needed to secure users' assets and control. Even if the Lord Voldemort had access to our servers, they couldn't harm users' ownership or control their assets.
 
 However, technology evolves and so do blockchains. The ZK Principles can’t be fully safeguarded through technology alone. To ensure lasting protection, the community must deeply embrace the elusive concept of decentralization.
