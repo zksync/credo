@@ -42,6 +42,8 @@ ZK, endearingly dubbed "Magic Moon Math," is a marvel of technology. It makes th
 
 ## The ZK Principles
 
+![ZK Principles](zk-principles.jpeg)
+
 We believe that to serve as the foundation of the Internet of Value, decentralized networks must adhere to the following principles:
 
 > **Trustlessness.** Users must be able to verify the integrity of transactions and the network state independently, without relying on others.
