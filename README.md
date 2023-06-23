@@ -24,7 +24,7 @@ The journey through the waves of the cryptographic revolution is ongoing. With p
 
 ### Integrity
 
-*“Integrity is doing the right thing, even when no one is watching.”* [^3]
+*“Integrity is doing the right thing... even when no one else is looking or will ever know.”* [^3]
 
 ZK echoes the "don't trust, verify" ethos foundational to mathematics, open source, and blockchains. Computational integrity, enabled at any scale by recursive ZK proofs, is the cornerstone of this element.
 
