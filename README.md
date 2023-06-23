@@ -18,6 +18,8 @@ The journey through the waves of the cryptographic revolution is ongoing. With p
 
 ## The ZK Revolution
 
+![ZK Revolution](zk-revolution.jpeg)
+
 "ZK" is a term with two meanings. Initially, it stood for "Zero-Knowledge (Proofs)", or, if you insist, "Zipped by Kryptography" [^2]. Today, "ZK" embodies a certain bigger idea, encapsulated in three properties: Integrity, Privacy, and Magic.
 
 ### Integrity
