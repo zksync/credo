@@ -97,4 +97,4 @@ Onward.
 [^2]: [Zipped by Kryptography](https://twitter.com/vitalikbuterin/status/1309298689156866048)
 [^3]: Charles Marshall, Shattering the Glass Slipper.
 [^4]: [Cypherpunk Manifesto](https://nakamotoinstitute.org/static/docs/cypherpunk-manifesto.txt)
-[^5]: [Clarke's Third Law](https://en.wikipedia.org/wiki/Clarke%27s_three_laws) [^5]
+[^5]: [Clarke's Third Law](https://en.wikipedia.org/wiki/Clarke%27s_three_laws)
