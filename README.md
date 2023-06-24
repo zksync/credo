@@ -25,18 +25,21 @@ The journey through the waves of the cryptographic revolution is ongoing. With p
 ### Integrity
 
 *“Integrity is doing the right thing... even when no one else is looking or will ever know.”* [^3]
+*“君子慎独，不欺暗室。”*
 
 ZK echoes the "don't trust, verify" ethos foundational to mathematics, open source, and blockchains. Computational integrity, enabled at any scale by recursive ZK proofs, is the cornerstone of this element.
 
 ### Privacy
 
 “*Privacy is necessary for an open society in the electronic age.”* [^4]
+*“非礼勿视，非礼勿听，非礼勿言，非礼勿动。”*
 
 In the blockchain sphere, privacy, viewed as a fundamental right, poses challenges uniquely addressed by ZK. Privacy shouldn't be a gift given to us; it's a fundamental right we must assert and defend together.
 
 ### Magic
 
 *“Any sufficiently advanced technology is indistinguishable from magic.”* [^5]
+*“科学是麻瓜的魔法。”*
 
 ZK, endearingly dubbed "Magic Moon Math," is a marvel of technology. It makes the cumbersome simple, converting intricate operations into effortless clicks. It enables integrated systems, where components seamlessly synchronize. Above all, it weaves these wonders while honoring user privacy and control.
 
