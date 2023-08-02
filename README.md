@@ -1,6 +1,6 @@
 # ZK Credo
 
-## Kebebasan→ Kemajuan → Kemakmuran
+## Kebebasan → Kemajuan → Kemakmuran
 
 ![Freedom → Progress → Prosperity](freedom-progress-prosperity.jpeg)
 
