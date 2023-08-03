@@ -90,7 +90,6 @@ Hãy kiên định trong việc ủng hộ sở hữu số tự nhiên.
 
 Hãy tiến lên.
 
-**Nguồn tham khảo:**
 [^1]: [The Network State](https://thenetworkstate.com/the-network-state-in-one-sentence).
 [^2]: [Zipped by Kryptography](https://twitter.com/vitalikbuterin/status/1309298689156866048)
 [^3]: Charles Marshall, Shattering the Glass Slipper.
