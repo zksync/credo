@@ -1,94 +1,94 @@
-# ZK Credo
+# ZK Credo [Japanese.ver]
 
-## Freedom → Progress → Prosperity
+## 自由 → 進歩 → 繁栄
 
 ![Freedom → Progress → Prosperity](freedom-progress-prosperity.jpeg)
 
-History shows us how technology can expand personal freedoms, unleashing creativity and innovation, leading to progress and prosperity.
+歴史は、テクノロジーがいかに個人の自由を拡大し、創造性と革新性を解き放ち、進歩と繁栄をもたらすかを示します。
 
-Early civilizations used bookkeeping and ledgers to track transactions, empowering individuals and communities to manage their finances and cooperate. The printing press democratized knowledge by making information affordable, sparking critical thinking and scientific advancement.
+初期の文明では、簡易的な帳簿を使って取引を記録して、個人や地域社会が財政を管理し、協力する力で機能していました。印刷機の誕生は、情報を手ごろな価格で入手できるようにすることで知識を民主化し、その後の「批判的思考」と「科学の進歩」に火をつけるきっかけとなりました。
 
-The Industrial Revolution, powered by the technological breakthroughs of the steam engine and mechanization, propelled unprecedented economic and societal prosperity.
+そして、蒸気機関と機械化という飛躍的な技術の進歩を原動力とする産業革命が、前例のない経済と社会の繁栄を推進する決定打となったことはよく知られています。
 
-In the twentieth century, the rise of cryptography and the Internet transformed communication and information access. This expansion of personal freedoms created economic opportunities for billions of people.
+20世紀には、暗号技術とインターネットの台頭が「コミュニケーション」と「情報アクセス」を一変させることとなります。これによって生じた個人の自由の拡大は、何十億もの人々に経済的機会をもたらしました。
 
-Today, we're at the dawn of a new era with blockchains and Web3. Like the Internet once did for information, Web3 is changing the landscape for digital ownership and value exchange. It offers promising new forms of societal organization, e.g. "network states" [^1].
+そして、今。インターネットが情報を提供したように、Web3はデジタルの所有権と価値交換のあり方を変えようとしています。例えば「ネットワーク国家」[^1]のような、社会組織の有望な新形態を提供するものです。
 
-The journey through the waves of the cryptographic revolution is ongoing. With public-key cryptography and blockchains marking the first and second waves, we now face the third: the ZK Revolution. Coupled with Web3, the ZK Revolution is set to redefine our collective future, standing as testament to technology's power to unlock personal freedom.
+暗号革命の波は現在も続いています。公開鍵暗号とブロックチェーンが第一波、第二波となり、私たちは今、第三の波であるZK革命に直面しています。Web3との相乗効果によって、ZK革命は私たちの未来を再定義し、個人の自由を解き放つテクノロジーの力を証明しようとしているのです。
 
-## The ZK Revolution
+## ZK革命
 
 ![ZK Revolution](zk-revolution.jpeg)
 
-"ZK" is a term with two meanings. Initially, it stood for "Zero-Knowledge (Proofs)", or, if you insist, "Zipped by Kryptography" [^2]. Today, "ZK" embodies a certain bigger idea, encapsulated in three properties: Integrity, Privacy, and Magic.
+「ZK」には2つの意味が存在します。当初は「Zero-Knowledge (Proofs)」の略のみでしたが、今や「Zipped by Kryptography」 [^2]とも言い表すことができます。今日の「ZK」は3つの性質に集約される、ある種の大きなアイデアを体現しています： それは「完全性」「プライバシー」「マジック」です。
 
-### Integrity
+### 完全性
 
-*“Integrity is doing the right thing... even when no one else is looking or will ever know.”* [^3]
+*「誠実さとは、正しい事をすることです......たとえ誰も見ていないときでも、誰も知ることがないときでも。」* [^3] 
 
-ZK echoes the "don't trust, verify" ethos foundational to mathematics, open source, and blockchains. Computational integrity, enabled at any scale by recursive ZK proofs, is the cornerstone of this element.
+ZKの概念は、数学やオープンソース、ブロックチェーンの基礎となる「信用するな、検証せよ」という倫理観と呼応しています。再帰的ZK証明によって、あらゆるスケールで可能になる計算の完全性は、この要素の基盤となるものです。
 
-### Privacy
+### プライバシー
 
-“*Privacy is necessary for an open society in the electronic age.”* [^4]
+*「デジタル時代の開かれた社会にはプライバシーが必要です。」* [^4]
 
-In the blockchain sphere, privacy, viewed as a fundamental right, poses challenges uniquely addressed by ZK. Privacy shouldn't be a gift given to us; it's a fundamental right we must assert and defend together.
+ブロックチェーン領域では、プライバシーは基本的な権利とみなされており、ZKが独自に取り組む課題を提起しています。プライバシーは与えられるものではなく、私たちが主張し、共に守らなければならない基本的な権利なのです。
 
-### Magic
+### マジック
 
-*“Any sufficiently advanced technology is indistinguishable from magic.”* [^5]
+*「極めて高度なテクノロジーは、当初は魔法と見分けがつかないものです。」* [^5]
 
-ZK, endearingly dubbed "Magic Moon Math," is a marvel of technology. It makes the cumbersome simple, converting intricate operations into effortless clicks. It enables integrated systems, where components seamlessly synchronize. Above all, it weaves these wonders while honoring user privacy and control.
+「マジック・ムーン・マス」と呼ばれるZKは、テクノロジーが生み出す驚異です。面倒なことをシンプルにし、複雑な操作を簡単なクリック操作に変換します。コンポーネントがシームレスに同期する統合システムを可能にします。そして何よりも、ユーザーのプライバシーとコントロールを尊重しながら、これらの不思議な魔法を機能させることができるのです。
 
-## The ZK Principles
+## ZKの理念
 
 ![ZK Principles](zk-principles.jpeg)
 
-We believe that to serve as the foundation of the Internet of Value, decentralized networks must adhere to the following principles:
+私たちは「価値のインターネットの基盤」として機能するためには、分散型ネットワークは以下の原則に従わなければならないと考えています：
 
-> **Trustlessness.** Users must be able to verify the integrity of transactions and the network state independently, without relying on others.
+> **トラストレス** ユーザーは他者に依存することなく、トランザクションの完全性とネットワークの状態を独自に検証できなければならない。
 > 
-> **Security.** An attack on any individual user must be as difficult and expensive as attacking the entire network, even for the world’s most powerful actors.
+> **セキュリティ** 個々のユーザーに対する攻撃は、たとえ世界最強の行為者によるものであったとしても、ネットワーク全体を攻撃するのと同じくらい困難かつ高価でなければならない。
 > 
-> **Reliability.** The network must consistently and correctly perform its function without failure.
+> **信頼性** ネットワークは失敗することなく、一貫して正しくその機能を果たさなければならない。
 > 
-> **Censorship-Resistance.** Users must have the ability to transact on the network without needing permission from anyone.
+> **検閲耐性** ユーザーは誰の許可も必要とせず、ネットワーク上で取引できなければならない。
 > 
-> **Privacy.** Users must be able to protect their identities and transaction details. Sensitive information is not shared with others in the network without the consent of users.
+> **プライバシー** ユーザーは自分の身元と取引の詳細を保護できなければならない。機密情報は、利用者の同意なしにネットワーク内の他者と共有されてはならない。
 > 
-> **Hyperscalability.** The network must have the capacity to grow with no upper bound while preserving all other critical properties.
+> **超拡張性** ネットワークは、他のすべての重要な特性を維持しながら、上限なく成長する能力を持たなければならない。
 > 
-> **Accessibility.** Applications and services on the network must be as affordable, easy-to-use and safe as state-of-the-art centralized alternatives.
+> **接続性** ネットワーク上のアプリケーションやサービスは、最先端の集中型代替サービスと同程度に安価で使いやすく、安全でなければならない。
 > 
-> **Sovereignty.** Any group of users, even a minority, must have the right to exit — i.e., fork away from the network, while taking their assets with them at a minimal cost.
+> **主権性** たとえ少数派であっても、どのようなユーザーグループであっても、最小限のコストで資産を持ちながらネットワークから退出する権利、つまりフォークする権利を持たなければならない。
 
-At present, Ethereum comes closest to realizing the vision of a blockchain network forming the backbone of the Internet of Value. It stands as a trustless, secure, reliable, censorship-resistant, and sovereign network. However, it currently does not meet the remaining prerequisites: privacy, hyperscalability, and accessibility.
+現在、イーサリアムはブロックチェーンネットワークが価値のインターネットのバックボーンを形成するというビジョンの実現に最も近いと言えます。イーサリアムは、信頼性が高く、安全で、信頼性が高く、検閲に強く、主権を持つネットワークだからです。しかし、現在のところ、プライバシー、超拡張性、接続性という残りの前提条件を満たしていないのが現状です。
 
-Through ZK magic, Web3 on Ethereum can become a stronghold for privacy and achieve limitless scalability while maintaining integrity. In this transformative state, it will be an accessible and affordable sanctuary for digital self-ownership. 
+ZKの「マジック」によって、イーサリアム上のWeb3はプライバシーの砦となり、完全性を維持しながら無限の拡張性を達成することが可能になります。この変容した状態において、Web3はデジタル自己所有権のための接続可能で手頃な聖域となります。
 
-It aligns with the ZK vision and will empower individuals globally, regardless of location. By unlocking these capabilities, a new wave of freedom, progress, and prosperity, will impact lives globally.
+それはZKのビジョンと一致するものとして、場所に関係なくグローバルに個人をエンパワーすることができます。こうした能力を解き放つことで、自由、進歩、繁栄の新しい波が世界中の生活に影響を与えるものとなるでしょう。
 
-## The Collective Action
+## 集団的行動
 
 ![The Collective Action](the-collective-action.jpeg)
 
-ZK Principles empower a network where trust in operators is not needed to secure users' assets and control. Even if the Lord Voldemort had access to our servers, they couldn't harm users' ownership or control their assets.
+ZKの原則は、ユーザーの資産とコントロールを保護するために、オペレーターへの信頼を必要としないネットワークを実現します。たとえヴォルデモート卿が私たちのサーバーにアクセスしたとしても、ユーザーの所有権を傷つけたり、資産をコントロールしたりすることはできないのです。
 
-However, technology evolves and so do blockchains. The ZK Principles can’t be fully safeguarded through technology alone. To ensure lasting protection, the community must deeply embrace the elusive concept of decentralization.
+しかし、テクノロジーが進化するのと同様に、ブロックチェーンも進化します。ZKの原則は、テクノロジーだけで完全に保護することはできません。永続的な保護を確保するためには、「分散化」というコンセプトを深く受け入れる必要があります。
 
-If a network possesses all the mentioned attributes but its governance falls into the hands of a privileged few, it is destined to fail. Such few will tweak the rules for personal gain, eroding network value. The Internet’s history serves as a cautionary tale. Its inception promised decentralization, but over time user data and traffic fell into the control of a few tech giants, shaping the digital landscape to their advantage.
+もしネットワークが前述の属性をすべて備えていたとしても、そのガバナンスが一部の特権階級の手に渡れば、それは失敗する運命にあります。そのような少数派は、利己的にルールを活用して、ネットワークの価値を損なうことになるでしょう。インターネットの歴史が、その警告を表す物語にもなっています。インターネットは当初、非中央集権化を約束していましたが、時が経つにつれて、ユーザーデータとトラフィックは一部の巨大テック企業の支配下に置かれ、世界のデジタル環境を自分たちに有利なように形成していったことは、誰もが知っているでしょう。
 
-To avoid this fate, we believe that the ZK community must be fiercely sovereign by elevating the right to exit into a moral obligation. When the network deviates from its principles, the community must unite and uphold these values by migrating to a new network.
+ZKコミュニティは、このような運命を避けるために、退出する権利を道徳的義務に昇格させることによって、激しい主権を持たなければならないと私たちは確信しています。ネットワークがその原則から逸脱した場合、コミュニティは団結し、新しいネットワークに移行することでその価値を維持しなければならないのです。
 
-Identifying such an erosion of values is not trivial: oppression is often subtle, slowly chipping away at freedom. Oppressors may also publicly punish dissenters to instill fear and encourage *collective inaction*.
+このような価値観の侵食を見極めることは、ささいなことではありません。抑圧はしばしば微妙な現れ方をして、自由をゆっくりと削り取っていきます。抑圧者はまた、恐怖を植え付け、*集団的不作為*を奨励するために、反対者を公に罰するかもしれません。
 
-Against these tactics, *collective action* is essential. The community must protect minorities and celebrate those who bravely defy oppression. To embed this collective commitment deeply in the community is vital to preserving freedom in the Internet of Value.
+こうした戦術に対しては、*集団的行動*が不可欠となります。コミュニティはマイノリティを保護し、抑圧に勇敢に抗う人々を称えるものでなくてはなりません。この集団的コミットメントをコミュニティに深く根付かせることは、価値のインターネットにおける自由を守るために不可欠です。
 
-Realizing these principles requires time and perseverance. A steady, pragmatic approach to decentralization is needed. While short-term compromises might be made, the unwavering long-term vision remains: advancing personal freedom for all.
+これらの原則を実現するには、時間と忍耐が必要です。分散化への着実で実用的なアプローチが必要となります。短期的な妥協は必要かもしれませんが、揺るぎない長期的ビジョンは決して変わることはありません。
 
-Let us remain resolute in championing digital self-ownership.
+デジタルの個人主権を断固として支持していきましょう。
 
-Onward.
+常に前へ。
 
 [^1]: [The Network State](https://thenetworkstate.com/the-network-state-in-one-sentence).
 [^2]: [Zipped by Kryptography](https://twitter.com/vitalikbuterin/status/1309298689156866048)
