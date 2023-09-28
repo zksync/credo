@@ -10,7 +10,7 @@ Las primeras civilizaciones usaban la contabilidad y libros de contabilidad para
 
 La Revolución Industrial, impulsada por los avances tecnológicos de la máquina de vapor y la mecanización, impulsó una prosperidad económica y social sin precedentes.
 
-En el siglo XX, el surgimiento de la criptografía e Internet transformaronla comunicación y el acceso a la información. Esta expansión de las libertades personales creó oportunidades económicas para miles de millones de personas.
+En el siglo XX, el surgimiento de la criptografía e Internet transformaron la comunicación y el acceso a la información. Esta expansión de las libertades personales creó oportunidades económicas para miles de millones de personas.
 
 Hoy en día, presenciamos el nacimiento de una nueva era con las cadenas de bloques y Web3. Al igual que Internet lo hizo en su momento con la información, Web3 está cambiando el panorama de la propiedad digital e intercambio de valor. Ofrece nuevas y prometedoras formas de organización social, como los «estados de red» [^1].
 
