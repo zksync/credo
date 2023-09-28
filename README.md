@@ -24,7 +24,7 @@ Hành trình qua những làn sóng của cách mạng mật mã vẫn còn ti�
 
 ### Sự chính trực
 
-“*Chính trực là làm đúng điều... ngay cả khi không có ai nhìn thấy hoặc biết điều đó..”* [^3]
+“*Chính trực là làm đúng điều... ngay cả khi không có ai nhìn thấy hoặc biết điều đó.”* [^3]
 
 ZK vang danh với nguyên tắc "đừng tin, hãy xác minh" cơ bản cho toán học, mã nguồn mở và chuỗi khối. Chính trực tính toán, được kích hoạt ở bất kỳ quy mô nào bằng cách sử dụng các chứng minh ZK đệ quy, là nền tảng của yếu tố này.
 
@@ -32,7 +32,7 @@ ZK vang danh với nguyên tắc "đừng tin, hãy xác minh" cơ bản cho to�
 
 “*Sự riêng tư là cần thiết cho một xã hội mở trong thời đại điện tử.”* [^4]
 
-In the blockchain sphere, privacy, viewed as a fundamental right, poses challenges uniquely addressed by ZK. Privacy shouldn't be a gift given to us; it's a fundamental right we must assert and defend together.
+Trong lĩnh vực chuỗi khối, quyền riêng tư, được xem như một quyền cơ bản, đặt ra những thách thức được ZK giải quyết một cách độc đáo. Không nên xem quyền riêng tư là một món quà; đó là một quyền cơ bản mà chúng ta phải khẳng định và bảo vệ cùng nhau.
 
 ### Sự diệu kỳ
 
@@ -44,7 +44,7 @@ ZK, được gọi thân mật là "Toán học của Mặt trăng phép thuật
 
 ![ZK Principles](zk-principles.jpeg)
 
-Chúng tôi tin rằng để phục vụ làm nền tảng cho Internet of Value (Mạng lưới giá trị phi tập trung), các mạng phi tập trung phải tuân thủ các nguyên tắc sau:
+Chúng tôi tin rằng để phục vụ làm nền tảng cho Internet of Value (Internet của Giá trị), các mạng phi tập trung phải tuân thủ các nguyên tắc sau:
 
 > **Trustlessness (Không tin tưởng).** Người dùng phải có khả năng xác minh tính chính xác của giao dịch và trạng thái mạng một cách độc lập, mà không phụ thuộc vào người khác.
 > 
@@ -72,7 +72,7 @@ Nó tương ứng với tầm nhìn của ZK và sẽ trao quyền cho cá nhân
 
 ![The Collective Action](the-collective-action.jpeg)
 
-Những nguyên tắc ZK (Zero-Knowledge) mang lại sức mạnh cho một mạng lưới nơi không cần tin tưởng vào nhà điều hành để bảo vệ tài sản và quyền kiểm soát của người dùng. Ngay cả khi Lord Voldemort có quyền truy cập vào máy chủ của chúng tôi, họ cũng không thể làm hại đến sở hữu của người dùng hoặc kiểm soát tài sản của họ.
+Những nguyên tắc ZK (Zero-Knowledge) mang lại sức mạnh cho một mạng lưới nơi không cần tin tưởng vào nhà điều hành để bảo vệ tài sản và quyền kiểm soát của người dùng. Ngay cả nếu Chúa tể Voldemort có quyền truy cập vào máy chủ của chúng tôi, họ cũng không thể làm hại đến sở hữu của người dùng hoặc kiểm soát tài sản của họ.
 
 Tuy nhiên, công nghệ tiến triển và cũng như chuỗi khối. Những nguyên tắc ZK không thể được bảo vệ hoàn toàn thông qua công nghệ một mình. Để đảm bảo bảo vệ bền vững, cộng đồng phải lòng khái niệm phi tập trung khó nắm bắt này.
 
@@ -82,7 +82,7 @@ Nếu mạng lưới sở hữu tất cả các thuộc tính đã đề cập n
 
 Nhận ra sự suy thoái như vậy về giá trị không phải là dễ dàng: áp bức thường tinh vi, từ từ xói mòn tự do. Người áp bức cũng có thể trừng phạt công khai những kẻ không đồng lòng để gieo rắc nỗi sợ hãi và khuyến khích "tác động tập thể".
 
-Trước những chiến thuật này, "hành động tập thể" là cần thiết. Cộng đồng phải bảo vệ nhóm thiểu số và tôn vinh những người dũng cảm chống lại áp bức. Nhúng sâu cam kết tập thể này vào cộng đồng là quan trọng để bảo tồn tự do trong Internet of Value.
+Trước những chiến thuật này, *hành động tập thể* là cần thiết. Cộng đồng phải bảo vệ nhóm thiểu số và tôn vinh những người dũng cảm chống lại áp bức. Nhúng sâu cam kết tập thể này vào cộng đồng là quan trọng để bảo tồn tự do trong Internet of Value (Internet của Giá trị).
 
 Thực hiện những nguyên tắc này đòi hỏi thời gian và kiên nhẫn. Cần có một cách tiếp cận vững chắc, thực dụng đối với việc phi tập trung. Mặc dù có thể có những thỏa thuận ngắn hạn, tầm nhìn dài hạn kiên định vẫn là: tiến bộ tự do cá nhân cho tất cả.
 
