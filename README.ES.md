@@ -4,15 +4,15 @@
 
 ![Libertad → Progreso → Prosperidad](freedom-progress-prosperity.jpeg)
 
-La historia nos muestra cómo la tecnología puede expandir las libertades personales, liberando la creatividad e innovación, conduciendo al progreso y la prosperidad.
+La historia nos muestra cómo la tecnología ayuda a conceder mayor libertad a las personas, para así liberar su potencial creativo y la innovación y culminar en progreso y prosperidad.
 
-Las primeras civilizaciones usaban contabilidad y libros de contabilidad para rastrear transacciones, empoderando a individuos y comunidades para gestionar sus finanzas y cooperar. La imprenta democratizó el conocimiento al hacer que la información fuera accesible, estimulando el pensamiento crítico y el avance científico.
+Las primeras civilizaciones usaban la contabilidad y libros de contabilidad para rastrear transacciones, empoderando a individuos y comunidades para gestionar sus finanzas y cooperar. La imprenta democratizó el conocimiento al hacer que la información fuera accesible, estimulando el pensamiento crítico y el avance científico.
 
 La Revolución Industrial, impulsada por los avances tecnológicos de la máquina de vapor y la mecanización, impulsó una prosperidad económica y social sin precedentes.
 
-En el siglo XX, el surgimiento de la criptografía e Internet transformó la comunicación y el acceso a la información. Esta expansión de las libertades personales creó oportunidades económicas para miles de millones de personas.
+En el siglo XX, el surgimiento de la criptografía e Internet transformaronla comunicación y el acceso a la información. Esta expansión de las libertades personales creó oportunidades económicas para miles de millones de personas.
 
-Hoy en día, estamos en el amanecer de una nueva era con las blockchains y Web3. Al igual que Internet lo hizo en su momento con la información, Web3 está cambiando el panorama de la propiedad digital e intercambio de valor. Ofrece nuevas y prometedoras formas de organización social, como los "estados de red" [^1].
+Hoy en día, presenciamos el nacimiento de una nueva era con las cadenas de bloques y Web3. Al igual que Internet lo hizo en su momento con la información, Web3 está cambiando el panorama de la propiedad digital e intercambio de valor. Ofrece nuevas y prometedoras formas de organización social, como los «estados de red» [^1].
 
 El viaje a través de las olas de la revolución criptográfica continúa. Con la criptografía de clave pública y las blockchains marcando la primera y segunda oleada, ahora nos enfrentamos a la tercera: la Revolución ZK. Junto con Web3, la Revolución ZK está lista para redefinir nuestro futuro colectivo, siendo un testimonio del poder de la tecnología para desbloquear la libertad personal.
 
@@ -20,7 +20,7 @@ El viaje a través de las olas de la revolución criptográfica continúa. Con l
 
 ![La Revolución ZK](zk-revolution.jpeg)
 
-"ZK" es un término con dos significados. Inicialmente, significaba "Pruebas de Conocimiento Cero (Zero-Knowledge Proofs)", o, si lo prefieres, "Zipped by Kryptography (Comprimido por Criptografía)" [^2]. Hoy en día, "ZK" encarna una idea más grande, encapsulada en tres propiedades: Integridad, Privacidad y Magia.
+ «ZK» es un término con dos significados. Inicialmente, significaba «pruebas de conocimiento cero (Zero-Knowledge Proofs)», o, si lo prefieres, «Zipped by Kryptography (comprimido por criptografía)». Hoy en día, "ZK" encarna una idea más grande, encapsulada en tres propiedades: Integridad, Privacidad y Magia.
 
 ### Integridad
 
@@ -64,7 +64,7 @@ Creemos que para servir como base de la Internet del Valor, las redes descentral
 
 En la actualidad, Ethereum es el que más se acerca a la realización de la visión de una red blockchain que forme la columna vertebral de la Internet del Valor. Es una red sin confianza, segura, confiable, resistente a la censura y soberana. Sin embargo, actualmente no cumple con los requisitos restantes: privacidad, hiperscalabilidad y accesibilidad.
 
-A través de la magia ZK, Web3 en Ethereum puede convertirse en un bastión para la privacidad y lograr una escalabilidad ilimitada manteniendo la integridad. En este estado transformador, será un refugio accesible y asequible para la auto-propiedad digital.
+A través de la magia ZK, Web3 en Ethereum puede convertirse en un bastión para la privacidad y lograr una escalabilidad ilimitada manteniendo la integridad. En este estado transformador, será un refugio accesible y asequible para la autopropiedad digital.
 
 Se alinea con la visión ZK y empoderará a individuos en todo el mundo, independientemente de su ubicación. Al desbloquear estas capacidades, una nueva ola de libertad, progreso y prosperidad impactará vidas en todo el mundo.
 
