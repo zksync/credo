@@ -60,9 +60,9 @@ Nous croyons que pour devenir les fondations de l'Internet de la valeur, les ré
 >
 > **Accessibilité.** Les applications et les services du réseau doivent être aussi abordables, faciles à utiliser et sûrs que leurs homologues centralisés.
 >
-> **Souveraineté.** Tout groupe d'utilisateurs, même minoritaire, doit avoir le droit de sortir du réseau, c'est-à-dire de quitter le réseau en emportant ses actifs à un coût minimal.
+> **Souveraineté.** Tout groupe d'utilisateurs, même minoritaire, doit avoir le droit de sortir du réseau, c'est-à-dire quitter le réseau en emportant ses actifs à un coût minimal.
 
-À l'heure actuelle, Ethereum est la blockchain qui se rapproche le plus d'accomplir la vision d'un réseau blockchain formant la colonne vertébrale de l'internet de la valeur. Il s'agit d'un réseau sécurisé, fiable, résistant à la censure et souverain. Cependant, il ne remplit pas les autres conditions préalables : protection de la vie privée, l'hyperscalabilité et l'accessibilité.
+À l'heure actuelle, Ethereum est la blockchain qui se rapproche le plus d'accomplir la vision d'un réseau blockchain formant la colonne vertébrale de l'Internet de la valeur. Il s'agit d'un réseau sécurisé, fiable, résistant à la censure et souverain. Cependant, il ne remplit pas les autres conditions préalables : protection de la vie privée, l'hyperscalabilité et l'accessibilité.
 
 Grâce à la magie de la ZK, le Web3 sur Ethereum peut devenir un bastion de la vie privée et atteindre une scalabilité illimitée tout en maintenant son intégrité. Dans cet état transformatif, il sera un sanctuaire accessible et abordable pour l'auto-propriété numérique.
 
