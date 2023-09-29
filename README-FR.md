@@ -20,7 +20,7 @@ Notre voyage à travers les vagues de la révolution cryptographique se poursuit
 
 ![ZK Revolution](zk-revolution.jpeg)
 
-"ZK" est un terme difficilement définissable. À l'origine, il signifiait "Zero-Knowledge (Proofs)" ou, si vous insistez, "Zipped by Kryptographie" [^2]. Aujourd'hui, "ZK" incarne une idée plus large, qui se décompose en trois propriétés essentielles : l'Intégrité, la Confidentialité et la Magie.
+"ZK" est un terme difficilement définissable. À l'origine, il signifiait "Zero-Knowledge (Proofs)" ou "Zipped by Kryptographie" [^2]. Aujourd'hui, "ZK" incarne une idée plus large, qui se décompose en trois propriétés essentielles : l'Intégrité, la Confidentialité et la Magie.
 
 ### L'intégrité
 
@@ -38,19 +38,19 @@ Dans l'univers des blockchains, la confidentialité pose des défis auxquels la 
 
 *"Toute technologie suffisamment avancée est indiscernable de la magie."* - Arthur C. Clarke [^5]
 
-ZK, surnommé "Magic Moon Math", est une merveille technologique. Elle simplifie l'alambiqué, elle transforme des opérations compliquées en quelques clics. Elle rend possible l'intégration de systèmes dont les composantes se synchronisent de manière fluide. Surtout, elle tisse ces merveilles en honorant la vie privée et la souveraineté de l'utilisateur.
+ZK, surnommé "Magic Moon Math", est une merveille technologique. Elle simplifie l'alambiqué, transformant des opérations compliquées en quelques clics. Elle rend possible l'intégration de systèmes dont les composantes se synchronisent de manière fluide. Surtout, elle tisse ces merveilles en honorant la vie privée et la souveraineté de l'utilisateur.
 
 ## Les principes ZK
 
 ![ZK Principles](zk-principles.jpeg)
 
-Nous croyons que pour devenir les fondations de l'économie libre de l'Internet, les réseaux décentralisés doivent adhérer aux principes suivants :
+Nous croyons que pour devenir les fondations de l'Internet de la valeur, les réseaux décentralisés doivent adhérer aux principes suivants :
 
 > **L'absence de confiance.** Les utilisateurs doivent être en mesure de vérifier l'intégrité des transactions et l'état du réseau de manière indépendante, sans dépendre d'autrui.
 >
 > **Sécurité.** Une attaque contre un utilisateur individuel doit être aussi difficile et coûteuse qu'une attaque contre l'ensemble du réseau, même pour les acteurs mondiaux les plus puissants.
 > 
-> **Fiabilité.** Le réseau doit remplir ses fonctions avec consistance et sans défaillance.
+> **Fiabilité.** Le réseau doit remplir ses fonctions avec cohérence et sans défaillance.
 >
 > **Résistance à la censure**. Les utilisateurs doivent pouvoir effectuer des transactions sur le réseau sans avoir besoin de l'autorisation de qui que ce soit.
 >
@@ -60,7 +60,7 @@ Nous croyons que pour devenir les fondations de l'économie libre de l'Internet,
 >
 > **Accessibilité.** Les applications et les services du réseau doivent être aussi abordables, faciles à utiliser et sûrs que leurs homologues centralisés.
 >
-> **Souveraineté.** Tout groupe d'utilisateurs, même minoritaire, doit avoir le droit de sortir du réseau, c'est-à-dire de le quitter en emportant ses actifs à un coût minimal.
+> **Souveraineté.** Tout groupe d'utilisateurs, même minoritaire, doit avoir le droit de sortir du réseau, c'est-à-dire de quitter le réseau en emportant ses actifs à un coût minimal.
 
 À l'heure actuelle, Ethereum est la blockchain qui se rapproche le plus d'accomplir la vision d'un réseau blockchain formant la colonne vertébrale de l'internet de la valeur. Il s'agit d'un réseau sécurisé, fiable, résistant à la censure et souverain. Cependant, il ne remplit pas les autres conditions préalables : protection de la vie privée, l'hyperscalabilité et l'accessibilité.
 
@@ -72,7 +72,7 @@ En s'alignant sur la vision de la ZK, il donnera le pouvoir aux individus à l'�
 
 ![The Collective Action](the-collective-action.jpeg)
 
-Les principes ZK assurent la mise en place d'un réseau où il n'est pas nécessaire de faire confiance à qui que ce soit pour sécuriser les actifs et la souveraineté des utilisateurs. Même si Voldemort avait accès à nos serveurs, il ne pourrait pas porter atteinte à la propriété des utilisateurs.
+Les principes ZK assurent la mise en place d'un réseau où il n'est pas nécessaire de faire confiance à qui que ce soit pour sécuriser les actifs et la souveraineté des utilisateurs. Même si Voldemort avait accès à nos serveurs, il ne pourrait pas porter atteinte à la propriété des utilisateurs ou contrôler leurs actifs.
 
 Cependant, la technologie évolue et les blockchains aussi. Les principes ZK ne peuvent pas être entièrement protégés uniquement par la technologie. Pour garantir une protection durable, la communauté doit embrasser le concept élusif de décentralisation.
 
@@ -86,7 +86,7 @@ Face à ces tactiques, *une réponse collective* est essentielle. La communauté
 
 La réalisation des principes ZK nécessite du temps et de la persévérance. Une approche stable et pragmatique de la décentralisation est nécessaire. Si des compromis à court terme peuvent être faits, la vision inébranlable à long terme demeure : faire progresser la liberté individuelle pour tous.
 
-Restons déterminés à être les champions de l'auto-propriété numérique
+Restons déterminés à être les champions de l'auto-propriété numérique.
 
 En Avant!
 
