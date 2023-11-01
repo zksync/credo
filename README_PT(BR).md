@@ -6,13 +6,13 @@
 
 A história nos mostra como a tecnologia pode expandir as liberdades pessoais, liberando a criatividade e a inovação, levando ao progresso e à prosperidade.
 
-As primeiras civilizações usavam escrituração e livros registro para rastrear transações, capacitando indivíduos e comunidades para gerenciar suas finanças e cooperar. A imprensa democratizou o conhecimento ao tornar a informação acessível, estimulando o pensamento crítico e o avanço científico.
+As primeiras civilizações usavam escrituração e livros contábeis para rastrear transações, dando a indivíduos e comunidades a capacidade de gerenciar suas finanças e cooperar. A imprensa democratizou o conhecimento ao tornar a informação acessível, estimulando o pensamento crítico e o avanço científico.
 
 A Revolução Industrial, impulsionada pelos avanços tecnológicos da máquina a vapor e da mecanização, impulsionou uma prosperidade econômica e social sem precedentes.
 
 No século XX, o surgimento da criptografia e da Internet transformou a comunicação e o acesso à informação. Essa expansão das liberdades pessoais criou oportunidades econômicas para bilhões de pessoas.
 
-Hoje, estamos no início de uma nova era com a tecnologia blockchain e a Web3. Como a Internet já fez para o acesso à informação, a Web3 está mudando o cenário da auto propriedade digital e da troca de valores. Oferece novas formas promissoras de organização social, por exemplo - "estados digitais".
+Hoje, estamos no início de uma nova era com a tecnologia blockchain e a Web3. Como a Internet já fez para o acesso à informação, a Web3 está mudando o cenário da autopropriedade digital e da troca de valores, além de oferecer novas formas promissoras de organização social, por exemplo, "estados digitais".
 
 A jornada pelas ondas da revolução criptográfica está em andamento. Com a criptografia de chave pública e blockchains marcando a primeira e a segunda ondas, agora chegamos na terceira: a Revolução ZK. Juntamente com a Web3, a Revolução ZK está preparada para redefinir nosso futuro coletivo, sendo uma prova do poder da tecnologia para desbloquear a liberdade pessoal.
 
@@ -24,9 +24,9 @@ A jornada pelas ondas da revolução criptográfica está em andamento. Com a cr
 
 ### Integridade
 
-“Integridade é fazer a coisa certa... mesmo quando ninguém mais está olhando ou nuca saberá.”
+“Integridade é fazer a coisa certa... mesmo quando ninguém mais está olhando ou nunca saberá.”
 
-ZK ecoa a regra "não confie, verifique" (fundamental para matemática), código aberto e blockchains. A integridade computacional, habilitada em qualquer escala por provas ZK recursivas, é a pedra angular deste elemento.
+ZK ecoa a regra "não confie, verifique", fundamental para matemática, código aberto e blockchains. A integridade computacional, habilitada em qualquer escala por provas ZK recursivas, é a pedra angular deste elemento.
 
 ### Privacidade
 
@@ -38,7 +38,7 @@ Na esfera da blockchain, a privacidade, vista como um direito fundamental, apres
 
 “Qualquer tecnologia suficientemente avançada é indistinguível da magia.” 
 
-ZK, carinhosamente apelidado de "Matemática Mágico da Lua", é uma maravilha da tecnologia. Ele simplifica o complicado, convertendo operações complexas em cliques sem esforço. Ele permite integração de sistemas, onde os componentes se sincronizam perfeitamente. Acima de tudo, ele tece essas maravilhas enquanto respeita a privacidade e o controle do usuário.
+ZK, carinhosamente apelidado de "Matemática Mágica da Lua", é uma maravilha da tecnologia. Ele simplifica o complicado, convertendo operações complexas em cliques sem esforço. Ele permite integração de sistemas, em que os componentes se sincronizam perfeitamente. Acima de tudo, ele tece essas maravilhas enquanto respeita a privacidade e o controle por parte usuário.
 
 ## Os Princípios ZK
 
@@ -56,29 +56,29 @@ Acreditamos que, para servir como base da “Internet de Valor”, as redes desc
 >
 > **Privacidade.** Os usuários devem ser capazes de proteger suas identidades e detalhes da transação. Informações confidenciais não são compartilhadas com outras pessoas na rede sem o consentimento dos usuários.
 >
-Escalabilidade.** A rede deve ter a capacidade de crescer sem limite superior, preservando todas as outras propriedades críticas.
+> **Hiperescalabilidade.** A rede deve ter a capacidade de crescer sem limite superior, preservando todas as outras propriedades críticas.
 >
 > **Acessibilidade.** Aplicativos e serviços na rede devem ser tão acessíveis, seguros e fáceis de usar quanto as alternativas centralizadas de última geração.
 >
 > **Soberania.** Qualquer grupo de usuários, mesmo uma minoria, deve ter o direito de sair, ou seja, separar-se da rede, levando consigo seus ativos a um custo mínimo.
 
-Atualmente, a Ethereum está mais próxima de concretizar a visão de uma rede blockchain formando a espinha dorsal da “Internet de Valor”. Ela se destaca como uma rede segura, confiável, resistente à censura e soberana. No entanto, atualmente não atende aos pré-requisitos restantes: privacidade, escalabilidade e acessibilidade.
+Atualmente, o protocolo Ethereum está mais próximo de concretizar a visão de uma rede blockchain formando a espinha dorsal da “Internet de Valor”. Ele se destaca como uma rede segura, confiável, resistente à censura e soberana. No entanto, ainda não atende aos pré-requisitos restantes de privacidade, hiperescalabilidade e acessibilidade.
 
-Por meio da magia ZK, a Web3 na Ethereum pode se tornar um reduto de privacidade e alcançar escalabilidade ilimitada, mantendo a integridade. Nesse estado transformador, será um santuário acessível e barato para a auto propriedade digital.
+Por meio da magia ZK, a Web3 no Ethereum pode se tornar um reduto de privacidade e alcançar escalabilidade ilimitada, mantendo a integridade. Nesse estado transformador, será um santuário acessível e barato para a autopropriedade digital.
 
-Ela se alinha com a visão ZK e capacitará indivíduos globalmente, independentemente da localização. Ao liberar esses recursos, uma nova onda de liberdade, progresso e prosperidade vai impactar vidas globalmente.
+Ela se alinha com a visão ZK e capacitará indivíduos globalmente, independentemente da localização. Ao tornar esses recursos disponíveis, uma nova onda de liberdade, progresso e prosperidade vai impactar vidas globalmente.
 
 ## A Ação Coletiva
 
 ![The Collective Action](the-collective-action.jpeg)
 
-Os Princípios ZK capacitam uma rede onde a confiança nos operadores não é necessária para proteger os ativos e o controle dos usuários. Mesmo que Lorde Voldemort tivesse acesso aos nossos servidores, eles não poderiam prejudicar a propriedade dos usuários ou controlar seus ativos.
+Os Princípios ZK capacitam uma rede onde a confiança nos operadores não é necessária para proteger os ativos e o controle por parte dos usuários. Mesmo que o "vilão" mais poderoso tivesse acesso aos nossos servidores, ele não poderia prejudicar a propriedade dos usuários nem controlar seus ativos.
 
 No entanto, a tecnologia evolui e as blockchains também. Os Princípios ZK não podem ser totalmente protegidos apenas por meio da tecnologia. Para garantir proteção duradoura, a comunidade deve abraçar profundamente o conceito indescritível de descentralização.
 
-Se uma rede possui todos os atributos mencionados, mas sua governança cai nas mãos de poucos privilegiados, ela está fadada ao fracasso. Esses poucos ajustarão as regras para interesses pessoais, corroendo o valor da rede. A história da Internet serve como um alerta. Seu início prometia descentralização, mas com o tempo os dados e o tráfego do usuário caíram no controle de alguns gigantes da tecnologia, moldando o cenário digital a seu favor.
+Se uma rede possui todos os atributos mencionados, mas sua governança cai nas mãos de poucos privilegiados, ela está fadada ao fracasso. Esses poucos ajustarão as regras para interesses pessoais, corroendo o valor da rede. A história da Internet serve como um alerta. Seu início prometia descentralização, mas com o tempo os dados e o tráfego do usuário caíram no controle de alguns gigantes da tecnologia, moldando o cenário digital a favor deles.
 
-Para evitar esse destino, acreditamos que a comunidade ZK deve ser ferozmente soberana, elevando o direito de saída a uma obrigação moral. Quando a rede se desvia de seus princípios, a comunidade deve se unir e defender esses valores migrando para uma nova rede.
+Para evitar esse destino, acreditamos que a comunidade ZK deve ser incontestavelmente soberana, transformando o direito de saída em uma obrigação moral. Quando a rede se desvia de seus princípios, a comunidade deve se unir e defender esses valores migrando para uma nova rede.
 
 Identificar tal erosão de valores não é trivial: a opressão costuma ser sutil, destruindo lentamente a liberdade. Os opressores também podem punir publicamente os dissidentes para incutir medo e desencorajar a ação coletiva.
 
@@ -86,6 +86,6 @@ Contra essas táticas, a ação coletiva é essencial. A comunidade deve protege
 
 A realização desses princípios requer tempo e perseverança. É necessária uma abordagem estável e pragmática da descentralização. Embora compromissos de curto prazo possam ser feitos, a visão inabalável de longo prazo permanece: promover a liberdade pessoal para todos.
 
-Vamos permanecer resolutos em defender a auto propriedade digital.
+Vamos permanecer firmes em defender a autopropriedade digital.
 
-Adiante.
+Sigamos Adiante.
