@@ -9,11 +9,11 @@ Frühe Zivilisationen nutzten Buchführung und Kontenbücher, um Transaktionen z
 
 Die Industrielle Revolution, angetrieben durch technologische Durchbrüche wie die Dampfmaschine und die Mechanisierung, führte zu beispiellosem wirtschaftlichem und gesellschaftlichem Wohlstand.
 
-Im zwanzigsten Jahrhundert verwandelten Kryptographie und das Internet die Kommunikation und den Zugang zu Informationen. Diese Erweiterung der persönlichen Freiheiten schuf wirtschaftliche Möglichkeiten für Milliarden von Menschen.
+Im zwanzigsten Jahrhundert sorgte der Aufstieg der Kryptographie und des Internets für einen Wandel unserer Gewohnheiten, zu kommunizieren und auf Informationen zuzugreifen. Diese Erweiterung der persönlichen Freiheiten schuf wirtschaftliche Möglichkeiten für Milliarden von Menschen.
 
-Heute stehen wir am Anfang einer neuen Ära mit Blockchains und Web3. Wie das Internet einst für Informationen, verändert Web3 die Landschaft für digitales Eigentum und Wertetausch. Es bietet vielversprechende neue Formen der gesellschaftlichen Organisation, z.B. "Netzwerkstaaten" [^1].
+Heute stehen wir am Anfang einer neuen Ära mit Blockchains und Web3. Wie es einst das Internet für Informationen tat, so verändert Web3 die Landschaft für digitales Eigentum und Wertetausch. Es bietet vielversprechende neue Formen der gesellschaftlichen Organisation, z.B. "Netzwerkstaaten" [^1].
 
-Die Reise durch die Wellen der kryptographischen Revolution geht weiter. Mit Public-Key-Kryptographie und Blockchains als erste und zweite Welle stehen wir jetzt vor der dritten: der ZK-Revolution. Zusammen mit Web3 wird die ZK-Revolution unsere kollektive Zukunft neu definieren, als Zeugnis für die Macht der Technologie, persönliche Freiheit freizusetzen.
+Die Reise durch die Wellen der kryptographischen Revolution ist noch nicht zu Ende. Nach Public-Key-Kryptographie und Blockchains als erster und zweiter Welle stehen wir jetzt vor einer dritten: der ZK-Revolution. Zusammen mit Web3 wird die ZK-Revolution unsere kollektive Zukunft neu definieren, als Zeugnis für die Macht der Technologie, persönliche Freiheit zu ermöglichen.
 
 ## Die ZK-Revolution
 
@@ -23,7 +23,7 @@ Die Reise durch die Wellen der kryptographischen Revolution geht weiter. Mit Pub
 
 ### Integrität
 
-*„Integrität bedeutet, das Richtige zu tun... auch wenn niemand hinsieht oder es jemals wissen wird.“* [^3]
+*„Integrität bedeutet, das Richtige zu tun ... auch wenn niemand hinsieht oder jemals davon wissen wird.“* [^3]
 
 ZK spiegelt das Ethos "nicht vertrauen, überprüfen" wider, das für Mathematik, Open Source und Blockchains grundlegend ist. Computergestützte Integrität, die durch rekursive ZK-Nachweise in jedem Maßstab ermöglicht wird, ist der Grundstein dieses Elements.
 
@@ -31,7 +31,7 @@ ZK spiegelt das Ethos "nicht vertrauen, überprüfen" wider, das für Mathematik
 
 *„Privatsphäre ist notwendig für eine offene Gesellschaft im elektronischen Zeitalter.“* [^4]
 
-In der Blockchain-Sphäre wird Privatsphäre als Grundrecht betrachtet und stellt Herausforderungen dar, die einzigartig von ZK adressiert werden. Privatsphäre sollte kein Geschenk an uns sein; es ist ein Grundrecht, das wir gemeinsam behaupten und verteidigen müssen.
+In der Blockchain-Sphäre wird Privatsphäre als Grundrecht betrachtet und stellt eine Herausforderung dar, die von ZK auf einzigartige Weise angegangen wird. Privatsphäre sollte kein Geschenk an uns sein; es ist ein Grundrecht, das wir gemeinsam behaupten und verteidigen müssen.
 
 ### Magie
 
@@ -43,7 +43,7 @@ ZK, liebevoll "Magic Moon Math" genannt, ist ein Wunder der Technologie. Es vere
 
 ![Die ZK-Prinzipien](zk-principles.jpeg)
 
-Wir glauben, dass dezentrale Netzwerke, um als Grundlage des Internets des Wertes zu dienen, den folgenden Prinzipien folgen müssen:
+Wir glauben, dass dezentrale Netzwerke, um als Grundlage des Internets der Werte zu dienen, den folgenden Prinzipien folgen müssen:
 
 > **Vertrauenslosigkeit.** Benutzer müssen in der Lage sein, die Integrität von Transaktionen und den Netzwerkzustand unabhängig zu überprüfen, ohne sich auf andere verlassen zu müssen.
 > 
@@ -59,7 +59,7 @@ Wir glauben, dass dezentrale Netzwerke, um als Grundlage des Internets des Werte
 >
 > **Zugänglichkeit.** Anwendungen und Dienste im Netzwerk müssen so erschwinglich, einfach zu bedienen und sicher sein wie zentralisierte Alternativen auf dem neuesten Stand der Technik.
 >
-> **Souveränität.** Jede Benutzergruppe, auch eine Minderheit, muss das Recht haben, auszutreten – d.h., sich vom Netzwerk abzuspalten und dabei ihre Vermögenswerte zu minimalen Kosten mitzunehmen.
+> **Souveränität.** Jede Benutzergruppe, auch eine Minderheit, muss das Recht haben, auszutreten – d. h., sich vom Netzwerk abzuspalten und dabei ihre Vermögenswerte zu minimalen Kosten mitzunehmen.
 
 Derzeit kommt Ethereum der Vision eines Blockchain-Netzwerks, das das Rückgrat des Internets des Wertes bildet, am nächsten. Es ist ein vertrauensloses, sicheres, zuverlässiges, zensurresistentes und souveränes Netzwerk. Es erfüllt jedoch derzeit nicht die übrigen Voraussetzungen: Privatsphäre, Hyperskalierbarkeit und Zugänglichkeit.
 
