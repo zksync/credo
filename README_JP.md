@@ -1,4 +1,4 @@
-# ZK Credo [Japanese.ver]
+# ZK Credo
 
 ## 自由 → 進歩 → 繁栄
 
