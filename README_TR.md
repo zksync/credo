@@ -6,7 +6,7 @@
 
 Tarih bize teknolojinin kişisel özgürlükleri nasıl genişletebileceğini, yaratıcılığı ve yeniliği serbest bırakabileceğini, ilerlemeye ve refaha nasıl yol açabileceğini gösteriyor.
 
-İlk uygarlıklar, işlemleri izlemek için defter tutmayı ve defterleri kullandılar, bireyleri ve toplulukları mali durumlarını yönetmeleri ve işbirliği yapmaları için güçlendirdi. Matbaa, bilgiyi uygun fiyatlı hale getirerek, eleştirel düşünmeyi ve bilimsel ilerlemeyi ateşleyerek bilgiyi demokratikleştirdi.
+İlk uygarlıklar, işlemleri izlemek için defter tutmayı ve bu defterleri kullanmayı öğrendiler bu bireyleri ve toplulukları mali durumlarını yönetmeleri ve işbirliği yapmaları için güçlendirdi. Matbaa, bilgiyi uygun fiyatlı hale getirerek, eleştirel düşünmeyi ve bilimsel ilerlemeyi ateşleyerek bilgiyi demokratikleştirdi.
 
 Buhar makinesinin ve mekanizasyonun teknolojik atılımlarıyla desteklenen Sanayi Devrimi, benzeri görülmemiş ekonomik ve toplumsal refahı teşvik etti.
 
