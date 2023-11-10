@@ -20,11 +20,11 @@ Kriptografik devrimin dalgaları boyunca yolculuk devam ediyor. Birinci ve ikinc
 
 ![ZK Devrimi](zk-revolution.jpeg)
 
-"ZK" iki anlamı olan bir terimdir. Başlangıçta, "Sıfır Bilgi (Kanıtlar)" veya ısrar ederseniz "Kriptografi tarafından Zipped" 2 anlamına geliyordu. Bugün, "ZK" üç özellikte kapsüllenmiş daha büyük bir fikri somutlaştırıyor: Dürüstlük, Gizlilik ve Büyü.
+"ZK" iki anlamı olan bir terimdir. Başlangıçta, "Sıfır Bilgi (Kanıtlar)" veya ısrar ederseniz "Kriptografi tarafından Sıkıştırılmış" [^2] anlamına geliyordu. Bugün, "ZK" üç özellikte kapsüllenmiş daha büyük bir fikri somutlaştırıyor: Dürüstlük, Gizlilik ve Büyü.
 
 ### Dürüstlük
 
-*“"Dürüstlük doğru olanı yapmaktır… başka hiç kimse bakmadığında veya bilemeyecekken bile."* [^3]
+*“Dürüstlük doğru olanı yapmaktır… başka hiç kimse bakmadığında veya bilemeyecekken bile.”* [^3]
 
 ZK, matematik, açık kaynak ve blok zincirleri için temel olan "güvenme, doğrulama" ahlakını yansıtıyor. Özyinelemeli ZK kanıtları ile herhangi bir ölçekte etkinleştirilen hesaplama bütünlüğü, bu öğenin temel taşıdır.
 
@@ -72,21 +72,22 @@ ZK vizyonuyla uyumludur ve konumu ne olursa olsun bireyleri küresel olarak gü�
 
 ![Kolektif Eylem](the-collective-action.jpeg)
 
-ZK İlkeleri, kullanıcıların varlıklarını ve kontrolünü güvence altına almak için operatörlere güvenin gerekli olmadığı bir ağı güçlendirir. Lord Voldemort sunucularımıza erişebilse bile, kullanıcıların mülkiyetine zarar veremez veya varlıklarını kontrol edemez.
+ZK İlkeleri, kullanıcıların varlıklarını ve bunlar üzerindeki kontrolünü güvence altına almak için operatörlere güvenin gerekli olmadığı bir ağa güç verir. Lord Voldemort sunucularımıza erişebilse bile, kullanıcıların mülkiyetine zarar veremez veya varlıklarını kontrol edemez.
 
-Ancak, teknoloji gelişir ve blok zincirler de öyle. ZK İlkeleri yalnızca teknoloji ile tam olarak korunamaz. Kalıcı koruma sağlamak için topluluk, anlaşılması zor ademi merkeziyet kavramını derinden benimsemelidir.
+Ancak, teknoloji gibi blok zincirler de gelişir. ZK İlkeleri yalnızca teknoloji ile tam olarak korunamaz. Kalıcı koruma sağlamak için topluluk, anlaşılması zor ademi merkeziyet kavramını derinden benimsemelidir.
 
-Bir ağ belirtilen tüm niteliklere sahipse ancak yönetimi ayrıcalıklı birkaç kişinin eline geçerse, başarısız olmaya mahkumdur. Bu kadar azı kişisel kazanç kurallarını değiştirecek ve ağ değerini aşındıracaktır. İnternetin tarihi uyarıcı bir hikaye görevi görüyor. Başlangıcı ademi merkeziyetçilik vaat etti, ancak zamanla kullanıcı verileri ve trafiği birkaç teknoloji devinin kontrolüne girdi ve dijital ortamı kendi avantajları için kullandılar.
+Bir ağ belirtilen tüm niteliklere sahipse bile yönetimi ayrıcalıklı birkaç kişinin eline geçerse, başarısız olmaya mahkumdur. Bu azınlık kişisel kazanç kurallarını değiştirecek ve ağ değerini aşındıracaktır. İnternet tarihi uyarıcı bir hikaye görevi görüyor. Başlangıcı ademi merkeziyetçilik vaat etti, ancak zamanla kullanıcı verileri ve trafiği birkaç teknoloji devinin kontrolüne girdi ve dijital ortamı kendi avantajları için kullandılar.
 
-Bu kaderden kaçınmak için, ZK topluluğunun ahlaki bir yükümlülüğe çıkma hakkını yükselterek şiddetle egemen olması gerektiğine inanıyoruz. Ağ ilkelerinden saptığında, topluluk yeni bir ağa geçiş yaparak bu değerleri birleştirmeli ve desteklemelidir.
+Bu kaderden kaçınmak için, ZK topluluğunun ahlaki bir yükümlülük hakkını haykırarak ZK topluluğunun egemen olması gerektiğine inanıyoruz. Ağ ilkelerinden saptığında, topluluk yeni bir ağa geçiş yaparak bu değerleri birleştirmeli ve desteklemelidir.
 
-Böyle bir değer erozyonunu tespit etmek önemsiz değildir: baskı genellikle inceliklidir ve özgürlüğü yavaş yavaş yok eder. Zalimler ayrıca korku salmak ve *toplu eylemsizliği* teşvik etmek için muhalifleri alenen cezalandırabilir.
+Böyle bir değer erozyonunu tespit son derece önemlidir: baskı genellikle inceliklidir ve özgürlüğü yavaş yavaş yok eder. Zalimler ayrıca korku salmak ve *toplu eylemsizliği* teşvik etmek için muhalifleri alenen cezalandırabilir.
 
 Bu taktiklere karşı kolektif eylem esastır. Topluluk azınlıkları korumalı ve baskıya cesurca meydan okuyanları kutlamalıdır. Bu kolektif bağlılığı toplumun derinliklerine yerleştirmek, Değer İnterneti'ndeki özgürlüğü korumak için hayati önem taşır.
 
 Bu ilkelerin hayata geçirilmesi zaman ve azim gerektirir. Ademi merkeziyetçilik konusunda istikrarlı ve pragmatik bir yaklaşıma ihtiyaç vardır. Kısa vadede ödünler verilse de, uzun vadeli vizyon değişmez: herkes için kişisel özgürlüğü ilerletmek.
 
 Dijital öz mülkiyeti savunmada kararlı olalım.
+
 ileri.
 
 [^1]: [The Network State](https://thenetworkstate.com/the-network-state-in-one-sentence).
