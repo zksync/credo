@@ -12,7 +12,7 @@ Buhar makinesinin ve mekanizasyonun teknolojik atılımlarıyla desteklenen Sana
 
 Yirminci yüzyılda kriptografinin ve İnternet'in yükselişi iletişimi ve bilgi erişimini dönüştürdü. Kişisel özgürlüklerin bu genişlemesi milyarlarca insan için ekonomik fırsatlar yarattı.
 
-Bugün, blok zincirler ve Web3 ile yeni bir çağın şafağındayız. İnternetin bir zamanlar bilgi için yaptığı gibi, Web3 de dijital mülkiyet ve değer değişimi için manzarayı değiştiriyor. Gelecek vaat eden yeni toplumsal örgütlenme biçimleri sunar, örn. "network states" [¹].
+Bugün, blok zincirler ve Web3 ile yeni bir çağın şafağındayız. İnternetin bir zamanlar bilgi için yaptığı gibi, Web3 de dijital mülkiyet ve değer değişimi için manzarayı değiştiriyor. Gelecek vaat eden yeni toplumsal örgütlenme biçimleri sunar, örn. "network states" [^1].
 
 Kriptografik devrimin dalgaları boyunca yolculuk devam ediyor. Birinci ve ikinci dalgaları işaretleyen açık anahtar kriptografisi ve blok zincirleri ile şimdi üçüncü dalgayla karşı karşıyayız: ZK Devrimi. Web3 ile birleştiğinde, ZK Devrimi, teknolojinin kişisel özgürlüğün kilidini açma gücünün kanıtı olarak kolektif geleceğimizi yeniden tanımlamaya hazırlanıyor.
 
