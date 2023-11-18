@@ -4,40 +4,40 @@
 
 ![Freedom → Progress → Prosperity](freedom-progress-prosperity.jpeg)
 
-Istoria ne arată cum tehnologia poate extinde libertățile personale, declanșând creativitatea și inovația, ducând la progres și prosperitate.
+Istoria ne arată cum tehnologia poate extinde libertățile personale, dând frâu liber creativității și inovației, conducând la progres și prosperitate.
 
-Civilizațiile timpurii au folosit contabilitatea și registrele pentru a urmări tranzacțiile, împuternicind indivizii și comunitățile să-și gestioneze finanțele și să coopereze. Tiparul a democratizat cunoașterea făcând informația accesibilă, stârnind gândirea critică și avansul științific.
+Civilizațiile timpurii au folosit contabilitatea și registrele pentru a urmări tranzacțiile, permițând persoanelor și comunităților să își gestioneze finanțele și să coopereze. Tiparul a democratizat cunoașterea făcând informația accesibilă, stârnind gândirea critică și progresul științific.
 
-Revoluția Industrială, alimentată de descoperirile tehnologice ale motorului cu abur și mecanizării, a propulsat o prosperitate economică și socială fără precedent.
+Revoluția Industrială, susținută de descoperiri tehnologice, precum motorul cu abur și mecanizarea, a propulsat o prosperitate economică și socială fără precedent.
 
 În secolul al XX-lea, ascensiunea criptografiei și a internetului a transformat comunicarea și accesul la informații. Această expansiune a libertăților personale a creat oportunități economice pentru miliarde de oameni.
 
-Astăzi, suntem la începutul unei noi ere cu blockchain-uri și Web3. La fel cum Internetul a schimbat peisajul pentru informații, Web3 schimbă peisajul pentru proprietatea digitală și schimbul de valoare. Oferă noi forme promițătoare de organizare socială, de exemplu "network states" [^1].
+Astăzi, suntem la începutul unei noi ere cu blockchain-uri și Web3. La fel cum Internetul a schimbat peisajul pentru informații, Web3 schimbă peisajul pentru proprietatea digitală și schimbul de valoare. Aceasta oferă noi forme promițătoare de organizare socială, de exemplu „network states”. [^1].
 
-Călătoria prin valurile revoluției criptografice este în curs. Cu criptografia cu cheie publică și blockchain-urile marcând primele și al doilea valuri, acum ne confruntăm cu al treilea: Revoluția ZK. Împreună cu Web3, Revoluția ZK este pregătită să redefinească viitorul nostru colectiv, stând ca mărturie a puterii tehnologiei de a debloca libertatea personală.
+Călătoria prin valurile revoluției criptografice este în curs. Cu primul și al doilea val marcate de criptografia cu cheie publică și blockchain-uri, acum ne confruntăm cu al treilea: Revoluția ZK. Împreună cu Web3, Revoluția ZK este pregătită să redefinească viitorul colectiv, stând ca mărturie a puterii tehnologiei de a descătușa libertatea personală.
 
 ## Revoluția ZK
 
 ![ZK Revolution](zk-revolution.jpeg)
 
-"ZK" este un termen cu două înțelesuri. Inițial, a însemnat "Zero-Knowledge" (Proofs), sau, dacă insistați, "Zipped by Kryptography" [^2]. Astăzi, "ZK" încorporează o idee mai mare, încapsulată în trei proprietăți: Integritate, Confidențialitate și Magie.
+„ZK” este un termen cu două înțelesuri. Inițial, a însemnat „Zero-Knowledge” (Proofs) sau, dacă insistați, „Zipped by Kryptography” [^2]. Astăzi, „ZK” încorporează o idee mai mare, încapsulată în trei proprietăți: Integritate, Confidențialitate și Magie.
 
 ### Integritate
 
 *"Integritatea înseamnă să faci lucrul corect... chiar și atunci când nimeni nu se uită sau nu va ști vreodată."* [^3]
 
-ZK tinteste la zicala "crede si nu cerceta" fundamental pentru matematică, open source și blockchain-uri. Integritatea computațională, posibilă la orice scară prin dovezi ZK recursive, este piatra de temelie a acestui element.
+ZK este o manifestare a recomandării „nu crede, verifică", fundamentală pentru matematică, open source și blockchain-uri. Integritatea computațională, posibilă la orice scară prin dovezi ZK recursive, este piatra de temelie a acestui element.
 
 ### Confidențialitate
 
 *"Confidențialitatea este necesară pentru o societate deschisă în era electronică."* [^4]
 
-În sfera blockchain, confidențialitatea, văzută ca un drept fundamental, prezintă provocări abordate unic de ZK. Confidențialitatea nu ar trebui să fie un cadou care ni se oferă; este un drept fundamental pe care trebuie să-l afirmăm și să-l apărăm împreună.
+În sfera blockchain, confidențialitatea, văzută ca un drept fundamental, prezintă provocări abordate unic de ZK. Confidențialitatea nu ar trebui să fie un cadou care ni se oferă; este un drept fundamental pe care trebuie să îl exercităm și să îl apărăm împreună.
 
 ### Magie
-*"Orice tehnologie suficient de avansată este de nedeosebit de magica."* [^5]
+*"Orice tehnologie suficient de avansată nu se poate deosebi de magie."* [^5]
 
-ZK, denumită afectuos "Matematica Magică a Lunii", este o minune tehnologică. Ea face ca ceea ce este greoi să devină simplu, convertind operațiuni complicate în clicuri ușoare. Ea permite sisteme integrate, unde componente se sincronizează fără probleme. Mai presus de toate, ea țese aceste minuni păstrând confidențialitatea și controlul utilizatorului.
+ZK, denumită afectuos "Matematica Magică a Lunii", este o minune tehnologică. Aceasta simplifică ceea ce este complicat, convertind operațiuni complicate în clicuri ușoare. Ea permite sisteme integrate, unde componente se sincronizează fără probleme. Mai presus de toate, ea țese aceste minuni păstrând confidențialitatea și controlul utilizatorului.
 
 ## Principiile ZK
 
@@ -47,25 +47,25 @@ Credem că, pentru a servi ca fundament al Internetului, rețelele descentraliza
 
 > **Lipsa de încredere.** Utilizatorii trebuie să poată verifica integritatea tranzacțiilor și starea rețelei independent, fără a se baza pe alții.
 > 
-> **Securitate.** Un atac asupra oricărui utilizator individual trebuie să fie la fel de dificil și costisitor ca atacarea întregii rețele, chiar și pentru actorii cei mai puternici din lume.
+> **Securitate.** Un atac asupra oricărui utilizator individual trebuie să fie la fel de dificil și costisitor ca un atac asupra întregii rețele, chiar și pentru actorii cei mai puternici din lume.
 > 
-> **Fiabilitate.** Rețeaua trebuie să își îndeplinească funcția în mod constant și corect fără eșecuri.
+> **Fiabilitate.** Rețeaua trebuie să își îndeplinească funcția în mod constant și corect, fără întrerupere.
 > 
 > **Rezistență la cenzură.** Utilizatorii trebuie să aibă capacitatea de a tranzacționa în rețea fără a avea nevoie de permisiunea cuiva.
 > 
-> **Confidențialitate.** Utilizatorii trebuie să poată proteja identitățile și detaliile tranzacțiilor lor. Informațiile sensibile nu sunt împărtășite cu alții în rețea fără consimțământul utilizatorilor.
+> **Confidențialitate.** Utilizatorii trebuie să își poată proteja identitățile și detaliile tranzacțiilor. Informațiile sensibile nu sunt împărtășite cu alții în rețea fără consimțământul utilizatorilor.
 > 
-> **Hiperscalabilitate.** Rețeaua trebuie să aibă capacitatea de a crește fără un plafon superior, păstrând toate celelalte proprietăți critice.
+> **Hiperscalabilitate.** Rețeaua trebuie să aibă capacitatea de a crește fără un plafon superior, păstrând toate celelalte proprietăți esențial.
 > 
 > **Accesibilitate.** Aplicațiile și serviciile din rețea trebuie să fie la fel de accesibile, ușor de utilizat și sigure ca alternativele centralizate de ultimă generație.
 > 
 > **Suveranitate.** Orice grup de utilizatori, chiar și o minoritate, trebuie să aibă dreptul de a ieși — adică, de a se desprinde de rețea, luându-și activele cu ei la un cost minim.
 
-În prezent, Ethereum se apropie cel mai mult de realizarea viziunii unei rețele blockchain care formează coloana vertebrală a Internetului Valorii. Stă ca o rețea fără încredere, sigură, fiabilă, rezistentă la cenzură și suverană. Cu toate acestea, în prezent nu îndeplinește celelalte premise: confidențialitate, hiperscalabilitate și accesibilitate.
+În prezent, Ethereum se apropie cel mai mult de realizarea viziunii unei rețele blockchain care formează coloana vertebrală a Internetului Valorii. Este recunoscută ca o rețea fără încredere, sigură, fiabilă, rezistentă la cenzură și suverană. Cu toate acestea, în prezent nu îndeplinește celelalte premise: confidențialitate, hiperscalabilitate și accesibilitate.
 
 Prin magia ZK, Web3 pe Ethereum poate deveni un bastion pentru confidențialitate și poate atinge scalabilitate nelimitată menținând integritatea. În această stare transformatoare, va fi un sanctuar accesibil și abordabil pentru auto-proprietatea digitală.
 
-Se aliniază cu viziunea ZK și va împuternici indivizii la nivel global, indiferent de locație. Deblocând aceste capacități, un nou val de libertate, progres și prosperitate, va avea impact asupra vieților la nivel global.
+Se aliniază cu viziunea ZK și va sta la dispoziția persoanelor la nivel global, indiferent de locație. Deblocând aceste capacități, un nou val de libertate, progres și prosperitate, va avea impact asupra vieților la nivel global.
 
 ## Acțiunea Colectivă
 
