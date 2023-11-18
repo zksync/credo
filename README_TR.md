@@ -6,9 +6,9 @@
 
 Tarih bize teknolojinin kişisel özgürlükleri nasıl genişletebileceğini, yaratıcılığı ve yeniliği serbest bırakabileceğini, ilerlemeye ve refaha nasıl yol açabileceğini gösteriyor.
 
-İlk uygarlıklar, işlemleri izlemek için defter tutmayı ve bu defterleri kullanmayı öğrendiler bu bireyleri ve toplulukları mali durumlarını yönetmeleri ve işbirliği yapmaları için güçlendirdi. Matbaa, bilgiyi uygun fiyatlı hale getirerek, eleştirel düşünmeyi ve bilimsel ilerlemeyi ateşleyerek bilgiyi demokratikleştirdi.
+İlk uygarlıklar, ticari işlemleri izlemek için defter tutmayı ve bu defterleri kullanmayı öğrendiler bu bireyleri ve toplulukları mali durumlarını yönetmeleri ve işbirliği yapmaları için güçlendirdi. Matbaa, bilgiyi uygun fiyatlı hale getirerek, eleştirel düşünmeyi ve bilimsel ilerlemeyi ateşleyerek bilgiyi demokratikleştirdi.
 
-Buhar makinesinin ve mekanizasyonun teknolojik atılımlarıyla desteklenen Sanayi Devrimi, benzeri görülmemiş ekonomik ve toplumsal refahı teşvik etti.
+Buhar makinesinin ve makineleşmenin teknolojik atılımlarıyla desteklenen Sanayi Devrimi, benzeri görülmemiş ekonomik ve toplumsal refahı teşvik etti.
 
 Yirminci yüzyılda kriptografinin ve İnternet'in yükselişi iletişimi ve bilgi erişimini dönüştürdü. Kişisel özgürlüklerin bu genişlemesi milyarlarca insan için ekonomik fırsatlar yarattı.
 
@@ -26,13 +26,13 @@ Kriptografik devrimin dalgaları boyunca yolculuk devam ediyor. Birinci ve ikinc
 
 *“Dürüstlük doğru olanı yapmaktır… başka hiç kimse bakmadığında veya bilemeyecekken bile.”* [^3]
 
-ZK, matematik, açık kaynak ve blok zincirleri için temel olan "güvenme, doğrulama" ahlakını yansıtıyor. Özyinelemeli ZK kanıtları ile herhangi bir ölçekte etkinleştirilen hesaplama bütünlüğü, bu öğenin temel taşıdır.
+ZK, matematik, açık kaynak ve blok zincirleri için temel olan "güvenme, doğrula" ahlakını yansıtıyor. Özyinelemeli ZK kanıtları ile herhangi bir ölçekte etkinleştirilen hesaplama bütünlüğü, bu öğenin temel taşıdır.
 
 ### Mahremiyet
 
 “*Elektronik çağda açık bir toplum için gizlilik gereklidir.”* [^4]
 
-Blok zinciri alanında, temel bir hak olarak görülen gizlilik, ZK tarafından benzersiz bir şekilde ele alınır. Mahremiyet bize verilen bir hediye olmamalı bu birlikte savunmamız ve savunmamız gereken temel bir haktır.
+Blok zinciri alanında, temel bir hak olarak görülen gizlilik, ZK tarafından benzersiz bir şekilde ele alınır. Mahremiyet bize verilen bir hediye olmamalı bu birlikte ileri sürmemiz ve savunmamız gereken temel bir haktır.
 
 ### Büyü
 
@@ -52,7 +52,7 @@ Değer İnternetinin temelini oluşturmak için merkezi olmayan ağların aşağ
 > 
 > **Güvenilirlik.** Ağ, işlevini hatasız bir şekilde tutarlı ve doğru olarak yerine getirmelidir.
 > 
-> **Sanür Direnci.** Kullanıcılar, kimseden izin almaya ihtiyaç duymadan ağ üzerinde işlem yapabilmelidir.
+> **Sansür Direnci.** Kullanıcılar, kimseden izin almaya ihtiyaç duymadan ağ üzerinde işlem yapabilmelidir.
 > 
 > **Gizlilik.** Kullanıcılar kimliklerini ve işlem detaylarını koruyabilmelidir. Hassas bilgiler, kullanıcıların izni olmadan ağdaki diğer kişilerle paylaşılmaz.
 > 
@@ -88,7 +88,7 @@ Bu ilkelerin hayata geçirilmesi zaman ve azim gerektirir. Ademi merkeziyetçili
 
 Dijital öz mülkiyeti savunmada kararlı olalım.
 
-ileri.
+İleri.
 
 [^1]: [The Network State](https://thenetworkstate.com/the-network-state-in-one-sentence).
 [^2]: [Zipped by Kryptography](https://twitter.com/vitalikbuterin/status/1309298689156866048)
