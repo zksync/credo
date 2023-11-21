@@ -8,7 +8,7 @@ La storia ci dimostra come la tecnologia possa ampliare le libertà personali, s
 
 Le prime civiltà utilizzavano la contabilità e i registri per tracciare le transazioni, consentendo agli individui e alle comunità di gestire le proprie finanze e cooperare.La stampa ha democratizzato la conoscenza rendendo le informazioni accessibili, stimolando il pensiero critico e il progresso scientifico.
 
-La Rivoluzione Industriale, alimentata dalle innovazioni tecnologiche della macchina a vapore e della meccanizzazione, ha propulso una prosperità economica e sociale senza precedenti.
+La Rivoluzione Industriale, alimentata dalle innovazioni tecnologiche della macchina a vapore e della meccanizzazione, ha stimolato una prosperità economica e sociale senza precedenti.
 
 Nel ventesimo secolo, l'ascesa della crittografia e di Internet ha trasformato la comunicazione e l'accesso alle informazioni. Questa espansione delle libertà personali ha creato opportunità economiche per miliardi di persone.
 
@@ -20,7 +20,7 @@ Il viaggio attraverso le onde della rivoluzione crittografica è in corso. Con l
 
 ![ZK Revolution](zk-revolution.jpeg)
 
-"ZK" è un termine con due significati. Inizialmente, stava per "Zero-Knowledge (Proofs)", ovvero, se insisti, "Zipped by Kryptography" [^2]. Oggi, "ZK" incarna un'idea più ampia, racchiusa in tre proprietà: Integrità, Privacy e Magia.
+"ZK" è un termine con due significati. Inizialmente, stava per "Zero-Knowledge (Proofs)", oppure, se volete, "Zipped by Kryptography" [^2]. Oggi, "ZK" incarna un'idea più ampia, racchiusa in tre proprietà: Integrità, Privacy e Magia.
 
 ### Integrità
 
