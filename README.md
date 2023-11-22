@@ -80,7 +80,7 @@ If a network possesses all the mentioned attributes but its governance falls int
 
 To avoid this fate, we believe that the ZK community must be fiercely sovereign by elevating the right to exit into a moral obligation. When the network deviates from its principles, the community must unite and uphold these values by migrating to a new network.
 
-Identifying such an erosion of values is not trivial: oppression is often subtle, slowly chipping away at freedom. Oppressors may also publicly punish dissenters to instill fear and encourage *collective inaction*.
+Identifying such an erosion of values is not trivial: oppression is often subtle, slowly chipping away at freedom. Oppressors may also publicly punish dissenters to instil fear and encourage *collective inaction*.
 
 Against these tactics, *collective action* is essential. The community must protect minorities and celebrate those who bravely defy oppression. To embed this collective commitment deeply in the community is vital to preserving freedom in the Internet of Value.
 
