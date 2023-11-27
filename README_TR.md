@@ -6,7 +6,7 @@
 
 Tarih bize teknolojinin kişisel özgürlükleri nasıl genişletebileceğini, yaratıcılığı ve yeniliği serbest bırakabileceğini, ilerlemeye ve refaha nasıl yol açabileceğini gösteriyor.
 
-İlk uygarlıklar, ticari işlemleri izlemek için defter tutmayı ve bu defterleri kullanmayı öğrendiler bu bireyleri ve toplulukları mali durumlarını yönetmeleri ve işbirliği yapmaları için güçlendirdi. Matbaa, bilgiyi uygun fiyatlı hale getirerek, eleştirel düşünmeyi ve bilimsel ilerlemeyi ateşleyerek bilgiyi demokratikleştirdi.
+İlk uygarlıklar, ticari işlemleri izlemek için defter tutmayı ve bu defterleri kullanmayı öğrendiler. Bu, bireyleri ve toplulukları mali durumlarını yönetmeleri ve işbirliği yapmaları için güçlendirdi. Matbaa, bilgiyi uygun fiyatlı hale getirerek, eleştirel düşünmeyi ve bilimsel ilerlemeyi ateşleyerek bilgiyi demokratikleştirdi.
 
 Buhar makinesinin ve makineleşmenin teknolojik atılımlarıyla desteklenen Sanayi Devrimi, benzeri görülmemiş ekonomik ve toplumsal refahı teşvik etti.
 
@@ -46,21 +46,21 @@ Sevimli bir şekilde "Sihirli Ay Matematiği" olarak adlandırılan ZK, bir tekn
 
 Değer İnternetinin temelini oluşturmak için merkezi olmayan ağların aşağıdaki ilkelere uyması gerektiğine inanıyoruz:
 
-> **Güvenilmezlik.** Kullanıcılar, başkalarına güvenmeden işlemlerin bütünlüğünü ve ağ durumunu bağımsız olarak doğrulayabilmelidir.
+> **Güvenilmezlik:** Kullanıcılar, başkalarına güvenmeden işlemlerin bütünlüğünü ve ağ durumunu bağımsız olarak doğrulayabilmelidir.
 > 
-> **Güvenlik.** Dünyanın en güçlü aktörleri için bile tek bir kullanıcıya saldırmak, tüm ağa saldırmak kadar zor ve pahalı olmalıdır.
+> **Güvenlik:** Dünyanın en güçlü aktörleri için bile tek bir kullanıcıya saldırmak, tüm ağa saldırmak kadar zor ve pahalı olmalıdır.
 > 
-> **Güvenilirlik.** Ağ, işlevini hatasız bir şekilde tutarlı ve doğru olarak yerine getirmelidir.
+> **Güvenilirlik:** Ağ, işlevini hatasız bir şekilde tutarlı ve doğru olarak yerine getirmelidir.
 > 
-> **Sansür Direnci.** Kullanıcılar, kimseden izin almaya ihtiyaç duymadan ağ üzerinde işlem yapabilmelidir.
+> **Sansür Direnci:** Kullanıcılar, kimseden izin almaya ihtiyaç duymadan ağ üzerinde işlem yapabilmelidir.
 > 
-> **Gizlilik.** Kullanıcılar kimliklerini ve işlem detaylarını koruyabilmelidir. Hassas bilgiler, kullanıcıların izni olmadan ağdaki diğer kişilerle paylaşılmaz.
+> **Gizlilik:** Kullanıcılar kimliklerini ve işlem detaylarını koruyabilmelidir. Hassas bilgiler, kullanıcıların izni olmadan ağdaki diğer kişilerle paylaşılmaz.
 > 
-> **Hiper Ölçeklenebilirlik.** Ağ, diğer tüm kritik özellikleri korurken üst sınır olmaksızın büyüme kapasitesine sahip olmalıdır.
+> **Hiper Ölçeklenebilirlik:** Ağ, diğer tüm kritik özellikleri korurken üst sınır olmaksızın büyüme kapasitesine sahip olmalıdır.
 > 
-> **Erişebilirlik.**  Ağ üzerindeki uygulamalar ve hizmetler, son teknoloji ürünü merkezi alternatifler kadar uygun fiyatlı, kullanımı kolay ve güvenli olmalıdır.
+> **Erişebilirlik:**  Ağ üzerindeki uygulamalar ve hizmetler, son teknoloji ürünü merkezi alternatifler kadar uygun fiyatlı, kullanımı kolay ve güvenli olmalıdır.
 > 
-> **Egemenlik.** Azınlık da olsa herhangi bir kullanıcı grubu, varlıklarını minimum maliyetle yanlarına alarak ağdan çıkma, yani ayrılma hakkına sahip olmalıdır.
+> **Egemenlik:** Azınlık da olsa herhangi bir kullanıcı grubu, varlıklarını minimum maliyetle yanlarına alarak ağdan çıkma, yani ayrılma hakkına sahip olmalıdır.
 
 Şu anda Ethereum, Değer İnterneti'nin bel kemiğini oluşturur ve blok zinciri ağı vizyonunu gerçekleştirmeye en yakın aday. Güvene ihtiyaç duymayan, güvenli, güvenilir, sansüre dayanıklı ve egemen bir ağ olarak duruyor. Ancak, şu koşulları karşılamıyor: gizlilik, hiper ölçeklenebilirlik ve erişilebilirlik.
 
