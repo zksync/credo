@@ -6,13 +6,13 @@
 
 Tarih bize teknolojinin kişisel özgürlükleri nasıl genişletebileceğini, yaratıcılığı ve yeniliği serbest bırakabileceğini, ilerlemeye ve refaha nasıl yol açabileceğini gösteriyor.
 
-İlk uygarlıklar, ticari işlemleri izlemek için defter tutmayı ve bu defterleri kullanmayı öğrendiler bu bireyleri ve toplulukları mali durumlarını yönetmeleri ve işbirliği yapmaları için güçlendirdi. Matbaa, bilgiyi uygun fiyatlı hale getirerek, eleştirel düşünmeyi ve bilimsel ilerlemeyi ateşleyerek bilgiyi demokratikleştirdi.
+İlk uygarlıklar, ticari işlemleri izlemek için defter tutmayı ve bu defterleri kullanmayı öğrendiler. Bu de bireyleri ve toplulukları mali durumlarını yönetmeleri ve işbirliği yapmaları için güçlendirdi. Matbaa, bilgiyi uygun fiyatlı hale getirerek, eleştirel düşünmeyi ve bilimsel ilerlemeyi ateşleyerek bilgiyi demokratikleştirdi.
 
 Buhar makinesinin ve makineleşmenin teknolojik atılımlarıyla desteklenen Sanayi Devrimi, benzeri görülmemiş ekonomik ve toplumsal refahı teşvik etti.
 
 Yirminci yüzyılda kriptografinin ve İnternet'in yükselişi iletişimi ve bilgi erişimini dönüştürdü. Kişisel özgürlüklerin bu genişlemesi milyarlarca insan için ekonomik fırsatlar yarattı.
 
-Bugün, blok zincirler ve Web3 ile yeni bir çağın şafağındayız. İnternetin bir zamanlar bilgi için yaptığı gibi, Web3 de dijital mülkiyet ve değer değişimi için manzarayı değiştiriyor. Gelecek vaat eden yeni toplumsal örgütlenme biçimleri sunar, örn. "network states" [^1].
+Bugün, blok zincirler ve Web3 ile yeni bir çağın şafağındayız. İnternetin bir zamanlar bilgi için yaptığı gibi, Web3 de dijital mülkiyet ve değer değişimi için olanakları değiştiriyor. Bununla birlikte "network states" [^1] gibi gelecek vaat eden yeni toplumsal örgütlenme biçimleri sunuyor. 
 
 Kriptografik devrimin dalgaları boyunca yolculuk devam ediyor. Birinci ve ikinci dalgaları işaretleyen açık anahtar kriptografisi ve blok zincirleri ile şimdi üçüncü dalgayla karşı karşıyayız: ZK Devrimi. Web3 ile birleştiğinde, ZK Devrimi, teknolojinin kişisel özgürlüğün kilidini açma gücünün kanıtı olarak kolektif geleceğimizi yeniden tanımlamaya hazırlanıyor.
 
