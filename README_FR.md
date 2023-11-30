@@ -1,4 +1,4 @@
-# ZK CREDO
+# ZK Credo
 
 ## Liberté → Progrès → Prospérité
 
