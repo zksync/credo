@@ -6,9 +6,9 @@
 
 Historia pokazuje nam, jak technologia może rozszerzać wolności osobiste, uwalniając kreatywność i innowacje, prowadząc do postępu i dobrobytu.
 
-Wczesne cywilizacje prowadziły księgi rachunkowe, aby śledzić transakcje, umożliwiając jednostkom i społecznościom zarządzanie finansami oraz kooperację. Wynalezienie druku zdemokratyzowało wiedzę, poprzez powszechne udostępnienie informacji dla każdego, co pobudzało myślenie krytyczne oraz postęp naukowy.
+Wczesne cywilizacje prowadziły księgi rachunkowe, aby śledzić transakcje, umożliwiając jednostkom i społecznościom zarządzanie finansami oraz kooperację. Wynalezienie druku zdemokratyzowało wiedzę, poprzez powszechne udostępnienie informacji dla każdego, co pobudziło myślenie krytyczne oraz postęp naukowy.
 
-Rewolucja Przemysłowa, napędzona technologicznymi przełomami takimi jak wynalezienie silnika parowego oraz dzięki mechanizacji, doprowadziła do niespotykanego do tej pory dobrobytu gospodarczego i społecznego.
+Rewolucja Przemysłowa, napędzona technologicznymi przełomami takimi jak wynalezienie silnika parowego oraz mechanizacji, doprowadziła do niespotykanego do tej pory dobrobytu gospodarczego i społecznego.
 
 W dwudziestym wieku powstanie kryptografii oraz internetu spowodowało transformację komunikacji oraz dostępu do informacji. To poszerzenie osobistych swobód utworzyło możliwości ekonomiczne dla miliardów ludzi.
 
@@ -54,7 +54,7 @@ Wierzymy, że aby służyć jako fundament Internetu Wartości, zdecentralizowan
 > 
 > **Odporność na cenzurę.** Użytkownicy muszą mieć możliwość dokonywania transakcji w sieci bez konieczności uzyskania zgody od kogokolwiek.
 > 
-> **Prywatność.** Użytkownicy muszą mieć możliwość ochrony swojej tożsamości oraz szczegółów transakcji. Wrażliwe informacje nie mogą być udostępniane innym w sieci bez zgody użytkowników.
+> **Prywatność.** Użytkownicy muszą mieć możliwość ochrony swojej tożsamości oraz szczegółów transakcji. Wrażliwe informacje nie mogą być udostępniane innym w sieci bez zgody użytkownika.
 > 
 > **Hiperskalowalność.** Sieć musi mieć zdolność do nieograniczonego rozwoju, jednocześnie zachowując wszystkie inne istotne właściwości.
 > 
@@ -64,7 +64,7 @@ Wierzymy, że aby służyć jako fundament Internetu Wartości, zdecentralizowan
 
 Obecnie Ethereum najbardziej zbliża się do realizacji wizji blockchainowej sieci stanowiącej kręgosłup Internetu Wartości. Funkcjonuje jako sieć pozbawiona konieczności zaufania, bezpieczna, niezawodna, odporna na cenzurę oraz suwerenna. Niemniej jednak w chwili obecnej nie spełnia pozostałych warunków wizji: prywatności, hiperskalowalności oraz dostępności.
 
-Dzięki magii ZK, Web3 zbudowane na Ethereum może stać się ostoją prywatności i osiągnąć nieograniczoną skalowalność, jednocześnie zachowując uczciwość. W tym transformowalnym stanie stanie się dostępnym i przystępnym sanktuarium dla cyfrowego samodzielnego posiadania.
+Dzięki magii ZK, Web3 zbudowane na Ethereum może stać się ostoją prywatności i osiągnąć nieograniczoną skalowalność, jednocześnie zachowując uczciwość. W tym transformowalnym stadium stanie się dostępnym i przystępnym sanktuarium dla cyfrowego samodzielnego posiadania.
 
 To współgra z wizją ZK i wzmocni jednostki na całym świecie, niezależnie od lokalizacji. Odblokowanie tych możliwości rozpocznie nową falę wolności, postępu i dobrobytu, wpływającą na życie ludzi na całym świecie.
 
