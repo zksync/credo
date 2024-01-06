@@ -6,7 +6,7 @@
 
 L'histoire nous a enseigné que la technologie peut être un puissant vecteur de liberté individuelle, de créativité et d'innovation, ouvrant la voie au progrès et à la prospérité.
 
-Dès les premières civilisations, les librairies, les archives et les registres ont permis de suivre l'évolution des échanges, donnant aux individus et aux communautés les moyens de gérer leurs finances et de coopérer plus efficacement. L'imprimerie a quant à elle démocratisé l'accès au savoir en rendant l'information plus accessible, stimulant ainsi la pensée critique et le progrès scientifique.
+Dès les premières civilisations, les bibliothèques, les archives et les registres ont permis de suivre l'évolution des échanges, donnant aux individus et aux communautés les moyens de gérer leurs finances et de coopérer plus efficacement. L'imprimerie a quant à elle démocratisé l'accès au savoir en rendant l'information plus accessible, stimulant ainsi la pensée critique et le progrès scientifique.
 
 La révolution industrielle, portée par les avancées technologiques de la mécanisation et de la machine à vapeur, a engendré une prospérité économique et sociale sans précédent.
 
