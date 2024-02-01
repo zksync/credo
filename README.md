@@ -63,9 +63,7 @@ We believe that to serve as the foundation of the Internet of Value, decentraliz
 > **Sovereignty.** Any group of users, even a minority, must have the right to exit — i.e., fork away from the network, while taking their assets with them at a minimal cost.
 
 At present, Ethereum comes closest to realizing the vision of a blockchain network forming the backbone of the Internet of Value. It stands as a trustless, secure, reliable, censorship-resistant, and sovereign network. However, it currently does not meet the remaining prerequisites: privacy, hyperscalability, and accessibility.
-
 Through ZK magic, Web3 on Ethereum can become a stronghold for privacy and achieve limitless scalability while maintaining integrity. In this transformative state, it will be an accessible and affordable sanctuary for digital self-ownership. 
-
 It aligns with the ZK vision and will empower individuals globally, regardless of location. By unlocking these capabilities, a new wave of freedom, progress, and prosperity, will impact lives globally.
 
 ## The Collective Action
