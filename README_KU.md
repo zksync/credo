@@ -2,7 +2,7 @@
 
 ## Azadî → Pêşketin → Refah
 
-![Freedom → Progress → Prosperity](freedom-progress-prosperity.jpeg)
+![Azadî → Pêşketin → Refah](freedom-progress-prosperity.jpeg)
 
 Dîrok nîşanî me dide ku teknolojî çawa dikare azadiyên şexsî berfireh bike, afiranerî û nûbûnê serbest bike û rê li ber pêşketin û refahê veke.
 
@@ -18,7 +18,7 @@ Pêlên pêşketinên di warê şoreşa krîptografîk da didomin. Ji xeynî pê
 
 ## Şoreşa ZKyê
 
-![ZK Revolution](zk-revolution.jpeg)
+![Şoreşa ZKyê](zk-revolution.jpeg)
 
 "ZK" têgeheke duwateyî ye. Di serî da tê wateya "Zanyariya Sifir (Delîl)", lê gava meriv zorê bide dihat wateya "Ji hê krîptografiyê va hatiye tepisandin" [^2]. Îro "ZK" di sê xalan da fikreke mezin nîşan dide: Rastî, Nepenîbûn û Efsûn.
 
@@ -44,7 +44,7 @@ Meriv dikare ZKyê weke "Matematîka Hîva Efsûnî" jî pênase bike ku ev di w
 
 ## Rêgezên ZKyê
 
-![ZK Principles](zk-principles.jpeg)
+![Rêgezên ZKyê](zk-principles.jpeg)
 
 Em bawer dikin ku ji bo avakirina bingeha Înternetê ya Nirxê, torên nenavendî divê li gorî rêgezên jêrîn tevbigerin:
 
@@ -72,7 +72,7 @@ ZK bi vîzyona xwe ra li hev dike û dê li seranserê cîhanê, bêyî cîh, h�
 
 ## Tevgera Kolektîf 
 
-![The Collective Action](the-collective-action.jpeg)
+![Tevgera Kolektîf](the-collective-action.jpeg)
 
 Rêgezên ZKyê torgilokek ku pêbaweriya bi operatoran ne hewce ye ku mal û milkên bikarhêneran ewle bike û li ser wan kontrol bike, hêz dike. Her çend Lord Voldemort bikaribe xwe bigihîne serverên me, lê ew nikare zirarê bide milkê bikarhêneran yan jî hebûnên wan kontrol bike.
 
