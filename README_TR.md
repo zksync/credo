@@ -88,7 +88,7 @@ Bu ilkelerin hayata geçirilmesi zaman ve azim gerektirir. Ademi merkeziyetçili
 
 Dijital öz mülkiyeti savunmada kararlı olalım.
 
-İleri.
+İleriye.
 
 [^1]: [The Network State](https://thenetworkstate.com/the-network-state-in-one-sentence).
 [^2]: [Zipped by Kryptography](https://twitter.com/vitalikbuterin/status/1309298689156866048)
