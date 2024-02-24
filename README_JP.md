@@ -24,7 +24,7 @@
 
 ### 整合性
 
-*「「誠実さとは、正しいことをすることです。たとえ他の人が見ていなくても、それが誰にも知られることがないとしても。」。」* [^3] 
+*「誠実さとは、正しいことをすることです。たとえ他の人が見ていなくても、それが誰にも知られることがないとしても。」* [^3] 
 
 ZKの概念は、数学やオープンソース、ブロックチェーンの基礎となる「信用するな、検証せよ」という倫理観と呼応しています。再帰的ZK証明によって、あらゆるスケールで可能になる計算の整合性は、この要素の基盤となるものです。
 
@@ -91,3 +91,6 @@ ZKの原則は、ユーザーの資産とコントロールを保護するため
 
 [^1]: [The Network State](https://thenetworkstate.com/the-network-state-in-one-sentence).
 [^2]: [Zipped by Kryptography](https://twitter.com/vitalikbuterin/status/1309298689156866048)
+[^3]: Charles Marshall, Shattering the Glass Slipper.
+[^4]: [Cypherpunk Manifesto](https://nakamotoinstitute.org/static/docs/cypherpunk-manifesto.txt)
+[^5]: [Clarke's Third Law](https://en.wikipedia.org/wiki/Clarke%27s_three_laws)
