@@ -6,7 +6,7 @@
 
 Tarih bize teknolojinin kişisel özgürlükleri nasıl genişletebileceğini, yaratıcılığı ve yeniliği serbest bırakabileceğini, ilerlemeye ve refaha nasıl yol açabileceğini gösteriyor.
 
-İlk uygarlıklar, ticari işlemleri izlemek için defter tutmayı ve bu defterleri kullanmayı öğrendiler bu bireyleri ve toplulukları mali durumlarını yönetmeleri ve işbirliği yapmaları için güçlendirdi. Matbaa, bilgiyi uygun fiyatlı hale getirerek, eleştirel düşünmeyi ve bilimsel ilerlemeyi ateşleyerek bilgiyi demokratikleştirdi.
+İlk uygarlıklar, ticari işlemleri izlemek için defter tutmayı ve bu defterleri kullanmayı öğrendiklerinde, bu durum bireyleri ve toplulukları mali durumlarını yönetmeleri ve işbirliği yapmaları için güçlendirdi. Matbaa, bilgiyi uygun fiyatlı hale getirerek, eleştirel düşünmeyi ve bilimsel ilerlemeyi ateşleyerek bilgiyi demokratikleştirdi.
 
 Buhar makinesinin ve makineleşmenin teknolojik atılımlarıyla desteklenen Sanayi Devrimi, benzeri görülmemiş ekonomik ve toplumsal refahı teşvik etti.
 
@@ -32,7 +32,7 @@ ZK, matematik, açık kaynak ve blok zincirleri için temel olan "güvenme, doğ
 
 “*Elektronik çağda açık bir toplum için gizlilik gereklidir.”* [^4]
 
-Blok zinciri alanında, temel bir hak olarak görülen gizlilik, ZK tarafından benzersiz bir şekilde ele alınır. Mahremiyet bize verilen bir hediye olmamalı bu birlikte ileri sürmemiz ve savunmamız gereken temel bir haktır.
+Blok zinciri alanında, temel bir hak olarak görülen gizlilik, ZK tarafından benzersiz bir şekilde ele alınır. Mahremiyet, bize verilen bir hediye olmamalı; bu, birlikte ilerletmemiz ve savunmamız gereken temel bir haktır.
 
 ### Büyü
 
@@ -46,7 +46,7 @@ Sevimli bir şekilde "Sihirli Ay Matematiği" olarak adlandırılan ZK, bir tekn
 
 Değer İnternetinin temelini oluşturmak için merkezi olmayan ağların aşağıdaki ilkelere uyması gerektiğine inanıyoruz:
 
-> **Güvenilmezlik.** Kullanıcılar, başkalarına güvenmeden işlemlerin bütünlüğünü ve ağ durumunu bağımsız olarak doğrulayabilmelidir.
+> **Güven Gerektirmeyen.** Kullanıcılar, başkalarına güvenmeden işlemlerin bütünlüğünü ve ağ durumunu bağımsız olarak doğrulayabilmelidir.
 > 
 > **Güvenlik.** Dünyanın en güçlü aktörleri için bile tek bir kullanıcıya saldırmak, tüm ağa saldırmak kadar zor ve pahalı olmalıdır.
 > 
@@ -88,7 +88,7 @@ Bu ilkelerin hayata geçirilmesi zaman ve azim gerektirir. Ademi merkeziyetçili
 
 Dijital öz mülkiyeti savunmada kararlı olalım.
 
-İleri.
+İleriye.
 
 [^1]: [The Network State](https://thenetworkstate.com/the-network-state-in-one-sentence).
 [^2]: [Zipped by Kryptography](https://twitter.com/vitalikbuterin/status/1309298689156866048)
