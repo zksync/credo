@@ -1,94 +1,95 @@
 # ZK Credo
 
-## Freedom → Progress → Prosperity
+## Frihed → Fremskridt → Velstand
 
-![Freedom → Progress → Prosperity](freedom-progress-prosperity.jpeg)
+![Frihed → Fremskridt → Velstand](freedom-progress-prosperity.jpeg)
 
-History shows us how technology can expand personal freedoms, unleashing creativity and innovation, leading to progress and prosperity.
+Historien viser os, hvordan teknologi kan udvide personlig frihed, hvilket frigør kreativitet og innovation, der fører til fremskridt og velstand.
 
-Early civilizations used bookkeeping and ledgers to track transactions, empowering individuals and communities to manage their finances and cooperate. The printing press democratized knowledge by making information affordable, sparking critical thinking and scientific advancement.
+Tidlige civilisationer brugte bogføring og regnskaber til at spore transaktioner, hvilket gav enkeltpersoner og samfund mulighed for at forvalte deres finanser og samarbejde. Bogtrykkerkunsten demokratiserede viden ved at gøre information tilgængelig, hvilket antændte kritisk tænkning og videnskabelig fremgang.
 
-The Industrial Revolution, powered by the technological breakthroughs of the steam engine and mechanization, propelled unprecedented economic and societal prosperity.
+Den industrielle revolution, drevet af de teknologiske gennembrud med dampmaskinen og mekanisering, førte til hidtil uset økonomisk og samfundsmæssig velstand.
 
-In the twentieth century, the rise of cryptography and the Internet transformed communication and information access. This expansion of personal freedoms created economic opportunities for billions of people.
+I det 20. århundrede transformerede fremkomsten af kryptografi og internettet kommunikation og adgang til information. Denne udvidelse af personlige friheder skabte økonomiske muligheder for milliarder af mennesker.
 
-Today, we're at the dawn of a new era with blockchains and Web3. Like the Internet once did for information, Web3 is changing the landscape for digital ownership and value exchange. It offers promising new forms of societal organization, e.g. "network states" [^1].
+I dag står vi ved daggryet til en ny æra med blockchains og Web3. Ligesom internettet engang åbnede op for information for information, ændrer Web3 landskabet for digital ejendomsret og værdiudveksling. Det tilbyder lovende nye former for samfundsorganisation, f.eks. "netværksstater" [^1].
 
-The journey through the waves of the cryptographic revolution is ongoing. With public-key cryptography and blockchains marking the first and second waves, we now face the third: the ZK Revolution. Coupled with Web3, the ZK Revolution is set to redefine our collective future, standing as testament to technology's power to unlock personal freedom.
+Rejsen gennem bølgerne af den kryptografiske revolution er i gang. Med offentlig-nøgle kryptografi og blockchains som udgør den første og anden bølge, står vi nu over for den tredje: ZK-Revolutionen. Sammen med Web3 er ZK-Revolutionen sat til at omdefinere vores kollektive fremtid, og vise om teknologiens magt til at låse op for personlig frihed
 
-## The ZK Revolution
+## ZK-Revolutionen
 
-![ZK Revolution](zk-revolution.jpeg)
+![ZK-Revolution](zk-revolution.jpeg)
 
-"ZK" is a term with two meanings. Initially, it stood for "Zero-Knowledge (Proofs)", or, if you insist, "Zipped by Kryptography" [^2]. Today, "ZK" embodies a certain bigger idea, encapsulated in three properties: Integrity, Privacy, and Magic.
+"ZK" er et udtryk med to betydninger. Oprindeligt stod det for "Zero-Knowledge (Beviser)", eller, hvis du insisterer, "Zippet af Kryptografi" [^2]. I dag inkarnerer "ZK" en vis større idé, indkapslet i tre egenskaber: Integritet, Privatliv og Magi.
 
-### Integrity
+### Integritet
 
-*“Integrity is doing the right thing... even when no one else is looking or will ever know.”* [^3]
+"Integritet er at gøre det rigtige... selv når ingen andre ser det eller nogensinde vil finde det." [^3]
 
-ZK echoes the "don't trust, verify" ethos foundational to mathematics, open source, and blockchains. Computational integrity, enabled at any scale by recursive ZK proofs, is the cornerstone of this element.
+ZK genlyder "Ikke stol på, bekræft" ethos, som er grundlæggende for matematik, open source og blockchains. Beregningsintegritet, gjort mulig i enhver skala ved rekursive ZK beviser, er hjørnestenen på dette element.
 
-### Privacy
+### Privatliv
 
-“*Privacy is necessary for an open society in the electronic age.”* [^4]
+"Privatliv er nødvendigt for et åbent samfund i den elektroniske æra." [^4]
 
-In the blockchain sphere, privacy, viewed as a fundamental right, poses challenges uniquely addressed by ZK. Privacy shouldn't be a gift given to us; it's a fundamental right we must assert and defend together.
+I blockchain-sfæren, hvor privatliv betragtes som en grundlæggende ret, udgør særlige udfordringer, der adresseres specifikt af ZK. Privatliv bør ikke være en gave, der gives til os; det er en grundlæggende ret, vi skal kræve og forsvare sammen.
 
-### Magic
+### Magi
 
-*“Any sufficiently advanced technology is indistinguishable from magic.”* [^5]
+"Enhver tilstrækkeligt avanceret teknologi er ikke til at skelne fra magi." [^5]
 
-ZK, endearingly dubbed "Magic Moon Math," is a marvel of technology. It makes the cumbersome simple, converting intricate operations into effortless clicks. It enables integrated systems, where components seamlessly synchronize. Above all, it weaves these wonders while honoring user privacy and control.
+ZK, kærligt døbt "Magic Moon Math", er et vidunder af teknologi. Det gør det besværlige enkelt, omdanner komplekse operationer til nemme klik. Det muliggør integrerede systemer, hvor komponenter synkroniseres sømløst. Frem for alt væver det disse vidundere, mens det ærer brugerens privatliv og kontrol.
 
-## The ZK Principles
+## ZK Principperne
 
-![ZK Principles](zk-principles.jpeg)
+![ZK Principperne](zk-principles.jpeg)
 
-We believe that to serve as the foundation of the Internet of Value, decentralized networks must adhere to the following principles:
+Vi tror, at for at tjene som fundamentet for "Internettet af værdi", må decentrale netværk overholde følgende principper:
 
-> **Trustlessness.** Users must be able to verify the integrity of transactions and the network state independently, without relying on others.
+> **Tillidsløshed.** Brugere skal kunne verificere integriteten af transaktioner og netværkets tilstand uafhængigt, uden at stole på andre.
 > 
-> **Security.** An attack on any individual user must be as difficult and expensive as attacking the entire network, even for the world’s most powerful actors.
+> **Sikkerhed.** Et angreb på enhver enkelt bruger skal være lige så svært og dyrt som at angribe hele netværket, selv for verdens mest magtfulde aktører.
 > 
-> **Reliability.** The network must consistently and correctly perform its function without failure.
+> **Pålidelighed.** Netværket skal konsekvent og korrekt udføre sin funktion uden fejl.
 > 
-> **Censorship-Resistance.** Users must have the ability to transact on the network without needing permission from anyone.
+> **Censur-Modstand.** Brugere skal have muligheden for at handle på netværket uden at behøve tilladelse fra anden part.
 > 
-> **Privacy.** Users must be able to protect their identities and transaction details. Sensitive information is not shared with others in the network without the consent of users.
+> **Privatliv.** Brugere skal kunne beskytte deres identiteter og transaktionsdetaljer. Følsomme oplysninger deles ikke med andre i netværket uden brugernes samtykke.
 > 
-> **Hyperscalability.** The network must have the capacity to grow with no upper bound while preserving all other critical properties.
+> **Hyper skalérbarhed.** Netværket skal have kapaciteten til at vokse uden øvre grænse, samtidig med at alle andre kritiske egenskaber bevares.
 > 
-> **Accessibility.** Applications and services on the network must be as affordable, easy-to-use and safe as state-of-the-art centralized alternatives.
+> **Tilgængelighed.** Applikationer og tjenester på netværket skal være lige så overkommelige, lette at bruge og sikre som det nyeste centraliserede alternativer.
 > 
-> **Sovereignty.** Any group of users, even a minority, must have the right to exit — i.e., fork away from the network, while taking their assets with them at a minimal cost.
+> **Suverænitet.** Enhver gruppe af brugere, selv et mindretal, skal have retten til at forlade — dvs. "forlade" væk fra netværket, mens de tager deres aktiver med sig til en minimal omkostning.
 
-At present, Ethereum comes closest to realizing the vision of a blockchain network forming the backbone of the Internet of Value. It stands as a trustless, secure, reliable, censorship-resistant, and sovereign network. However, it currently does not meet the remaining prerequisites: privacy, hyperscalability, and accessibility.
+I øjeblikket kommer Ethereum tættest på at realisere visionen om et blockchain-netværk, der danner rygraden i "Internettet af værdi". Det står som et tillidsløst, sikkert, pålideligt, censur-modstandsdygtigt og suverænt netværk. Dog opfylder det i øjeblikket ikke de resterende forudsætninger: privatliv, hyper skalerbarhed og tilgængelighed.
 
-Through ZK magic, Web3 on Ethereum can become a stronghold for privacy and achieve limitless scalability while maintaining integrity. In this transformative state, it will be an accessible and affordable sanctuary for digital self-ownership. 
+Gennem ZK-magi kan Web3 på Ethereum blive en bastion for privatliv og opnå grænseløs skalérbarhed, samtidig med at integriteten bevares. I denne transformative tilstand vil det være et tilgængeligt og overkommeligt tilflugtssted for digitalt selv-ejerskab.
 
-It aligns with the ZK vision and will empower individuals globally, regardless of location. By unlocking these capabilities, a new wave of freedom, progress, and prosperity, will impact lives globally.
+Det er i overensstemmelse med ZK-visionen og vil bemyndige enkeltpersoner globalt, uanset placering. Ved at låse op for disse kapaciteter vil en ny bølge af frihed, fremskridt og velstand påvirke liv globalt.
 
-## The Collective Action
+## Den Kollektive Handling
 
-![The Collective Action](the-collective-action.jpeg)
+![Den-Kollektive-Handling
+](the-collective-action.jpeg)
 
-ZK Principles empower a network where trust in operators is not needed to secure users' assets and control. Even if the Lord Voldemort had access to our servers, they couldn't harm users' ownership or control their assets.
+ZK Principper bemyndiger et netværk, hvor tillid til operatører ikke er nødvendig for at sikre brugernes aktiver og kontrol. Selvom Lord Voldemort havde adgang til vores servere, ville han ikke kunne skade brugernes ejerskab eller kontrollere deres aktiver.
 
-However, technology evolves and so do blockchains. The ZK Principles can’t be fully safeguarded through technology alone. To ensure lasting protection, the community must deeply embrace the elusive concept of decentralization.
+Teknologi udvikler sig dog, og det gør blockchains også. ZK Principperne kan ikke garanteres fuldstændig sikkerhed gennem teknologi alene. For at sikre varig beskyttelse må fællesskabet fuldt ud omfavne det undvigende koncept om decentralisering.
 
-If a network possesses all the mentioned attributes but its governance falls into the hands of a privileged few, it is destined to fail. Such few will tweak the rules for personal gain, eroding network value. The Internet’s history serves as a cautionary tale. Its inception promised decentralization, but over time user data and traffic fell into the control of a few tech giants, shaping the digital landscape to their advantage.
+Hvis et netværk besidder alle de nævnte attributter, men dets styring falder i hænderne på et privilegeret fåtal, i risiko for at mislykkes. Så få vil ændre reglerne til personlig gevinst, hvilket eroderer netværksværdien. Internettets historie tjener som en advarselsfortælling. Dets begyndelse lovede decentralisering, men med tiden faldt brugerdata og trafik i kontrol af få tech-giganter, der formede det digitale landskab til deres fordel.
 
-To avoid this fate, we believe that the ZK community must be fiercely sovereign by elevating the right to exit into a moral obligation. When the network deviates from its principles, the community must unite and uphold these values by migrating to a new network.
+For at undgå denne skæbne, tror vi, at ZK-fællesskabet skal være stærkt suverænt ved at hæve retten til at forlade til en moralsk forpligtelse. Når netværket afviger fra sine principper, må fællesskabet forene og opretholde disse værdier ved at migrere til et nyt netværk.
 
-Identifying such an erosion of values is not trivial: oppression is often subtle, slowly chipping away at freedom. Oppressors may also publicly punish dissenters to instill fear and encourage *collective inaction*.
+At identificere en sådan erosion af værdier er ikke trivielt: undertrykkelse er ofte subtil, langsomt nedbryder frihed. Undertrykkere kan også offentligt straffe dissidenter for at indgyde frygt og opmuntre til kollektiv inaktivitet.
 
-Against these tactics, *collective action* is essential. The community must protect minorities and celebrate those who bravely defy oppression. To embed this collective commitment deeply in the community is vital to preserving freedom in the Internet of Value.
+Mod disse taktikker er kollektiv handling afgørende. Fællesskabet må beskytte mindretal og fejre dem, der modigt trodser undertrykkelse. At indlejre denne kollektive forpligtelse dybt inden for fællesskabet er afgørende for at bevare friheden i Værdiens Internet.
 
-Realizing these principles requires time and perseverance. A steady, pragmatic approach to decentralization is needed. While short-term compromises might be made, the unwavering long-term vision remains: advancing personal freedom for all.
+At realisere disse principper kræver tid og udholdenhed. En stabil, pragmatisk tilgang til decentralisering er nødvendig. Selvom der måske laves kortsigtede kompromiser, forbliver det urokkelige langsigtede syn: at fremme personlig frihed for alle.
 
-Let us remain resolute in championing digital self-ownership.
+Lad os forblive beslutsomme i at forsvare digitalt selv-ejerskab.
 
-Onward.
+Fremad.
 
 [^1]: [The Network State](https://thenetworkstate.com/the-network-state-in-one-sentence).
 [^2]: [Zipped by Kryptography](https://twitter.com/vitalikbuterin/status/1309298689156866048)
