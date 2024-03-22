@@ -16,13 +16,13 @@ Aujourd'hui, nous sommes à l'aube d'une nouvelle ère avec les blockchains et l
 
 Notre voyage à travers les vagues de la révolution cryptographique se poursuit. Après les premières vagues marquées par la cryptographie à clé publique et les blockchains, nous sommes désormais confrontés à la troisième vague : la révolution ZK. Associée au Web3, la révolution ZK est prête à redéfinir notre avenir collectif, témoignant du pouvoir de la technologie à étendre la liberté individuelle.
 
-## LA REVOLUTION ZK
+## LA RÉVOLUTION ZK
 
 ![ZK Revolution](zk-revolution.jpeg)
 
 "ZK" est un terme difficilement définissable. À l'origine, il signifiait "Zero-Knowledge (Proofs)" ou "Zipped by Kryptographie" [^2]. Aujourd'hui, "ZK" incarne une idée plus large, qui se décompose en trois propriétés essentielles : l'Intégrité, la Confidentialité et la Magie.
 
-### L'intégrité
+### L'Intégrité
 
 *"L'intégrité consiste à faire ce qui est juste... même lorsque personne d'autre ne regarde ou ne l'apprendra."* - Charles W. Marshall. [^3]
 
@@ -40,7 +40,7 @@ Dans l'univers des blockchains, la confidentialité pose des défis auxquels la 
 
 ZK, surnommé "Magic Moon Math", est une merveille technologique. Elle simplifie l'alambiqué, transformant des opérations compliquées en quelques clics. Elle rend possible l'intégration de systèmes dont les composantes se synchronisent de manière fluide. Surtout, elle tisse ces merveilles en honorant la vie privée et la souveraineté de l'utilisateur.
 
-## Les principes ZK
+## Les Principes ZK
 
 ![ZK Principles](zk-principles.jpeg)
 
@@ -76,7 +76,7 @@ Les principes ZK assurent la mise en place d'un réseau où il n'est pas nécess
 
 Cependant, la technologie évolue et les blockchains aussi. Les principes ZK ne peuvent pas être entièrement protégés uniquement par la technologie. Pour garantir une protection durable, la communauté doit embrasser le concept élusif de décentralisation.
 
-Si un réseau remplit tous les principes ZK mais que sa gouvernance tombe entre les mains de quelques privilégiés, il est voué à l'échec. Ces quelques privilégiés modifieront les règles à des fins personnelles, ce qui aura pour effet d'éroder la valeur du réseau. L'histoire de l'Internet est un exemple de mise en garde. Sa création promettait la décentralisation, mais au fil du temps, les données et le trafic des utilisateurs sont tombés sous le contrôle de quelques géants de la technologie, qui ont façonné le paysage numérique à leur avantage.
+Si un réseau remplit tous les principes ZK, mais que sa gouvernance tombe entre les mains de quelques privilégiés, il est voué à l'échec. Ces quelques privilégiés modifieront les règles à des fins personnelles, ce qui aura pour effet d'éroder la valeur du réseau. L'histoire de l'Internet est un exemple de mise en garde. Sa création promettait la décentralisation, mais au fil du temps, les données et le trafic des utilisateurs sont tombés sous le contrôle de quelques géants de la technologie, qui ont façonné le paysage numérique à leur avantage.
 
 Pour éviter ce destin, nous pensons que la communauté ZK doit être farouchement souveraine et considérer son droit d'optionalité comme une obligation morale. Lorsque le réseau s'écarte de ses principes, la communauté doit s'unir et défendre ces valeurs en migrant vers un nouveau réseau.
 
@@ -88,7 +88,7 @@ La réalisation des principes ZK nécessite du temps et de la persévérance. Un
 
 Restons déterminés à être les champions de l'auto-propriété numérique.
 
-En Avant!
+En Avant !
 
 [^1]: [The Network State](https://thenetworkstate.com/the-network-state-in-one-sentence).
 [^2]: [Zipped by Kryptography](https://twitter.com/vitalikbuterin/status/1309298689156866048)
