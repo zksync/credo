@@ -12,7 +12,7 @@ La Revolución Industrial, impulsada por los avances tecnológicos de la máquin
 
 En el siglo XX, el surgimiento de la criptografía e Internet transformaron la comunicación y el acceso a la información. Esta expansión de las libertades personales creó oportunidades económicas para miles de millones de personas.
 
-Hoy en día, presenciamos el nacimiento de una nueva era con las cadenas de bloques y Web3. Al igual que Internet lo hizo en su momento con la información, Web3 está cambiando el panorama de la propiedad digital e intercambio de valor. Ofrece nuevas y prometedoras formas de organización social, como los «estados de red» [^1].
+Hoy en día, presenciamos el nacimiento de una nueva era con las cadenas de bloques y Web3. Al igual que Internet lo hizo en su momento con la información, Web3 está cambiando el panorama de la propiedad digital e intercambio de valor. Ofrece nuevas y prometedoras formas de organización social, como los "estados de red" [^1].
 
 El viaje a través de las olas de la revolución criptográfica continúa. Con la criptografía de clave pública y las blockchains marcando la primera y segunda oleada, ahora nos enfrentamos a la tercera: la Revolución ZK. Junto con Web3, la Revolución ZK está lista para redefinir nuestro futuro colectivo, siendo un testimonio del poder de la tecnología para desbloquear la libertad personal.
 
@@ -20,7 +20,7 @@ El viaje a través de las olas de la revolución criptográfica continúa. Con l
 
 ![La Revolución ZK](zk-revolution.jpeg)
 
- «ZK» es un término con dos significados. Inicialmente, significaba «pruebas de conocimiento cero (Zero-Knowledge Proofs)», o, si lo prefieres, «Zipped by Kryptography (comprimido por criptografía)». Hoy en día, "ZK" encarna una idea más grande, encapsulada en tres propiedades: Integridad, Privacidad y Magia.
+ "ZK" es un término con dos significados. Inicialmente, significaba «pruebas de conocimiento cero "Zero-Knowledge (Proofs)", o, si lo prefieres, "Zipped by Kryptography"[^2]. Hoy en día, "ZK" encarna una idea más grande, encapsulada en tres propiedades: Integridad, Privacidad y Magia.
 
 ### Integridad
 
@@ -30,13 +30,13 @@ ZK refleja la ética "no confíes, verifica" fundamental para las matemáticas, 
 
 ### Privacidad
 
-*"La privacidad es necesaria para una sociedad abierta en la era electrónica."* [^4]
+“*La privacidad es necesaria para una sociedad abierta en la era electrónica.”* [^4]
 
 En el ámbito de las blockchains, la privacidad, vista como un derecho fundamental, plantea desafíos abordados de manera única por ZK. La privacidad no debería ser un regalo que nos den; es un derecho fundamental que debemos afirmar y defender juntos.
 
 ### Magia
 
-*"Cualquier tecnología suficientemente avanzada es indistinguible de la magia."* [^5]
+*“Cualquier tecnología suficientemente avanzada es indistinguible de la magia.”* [^5]
 
 ZK, cariñosamente llamado "Magia Moon Math", es una maravilla de la tecnología. Hace que lo complicado sea simple, convirtiendo operaciones intrincadas en clics sencillos. Permite sistemas integrados, donde los componentes se sincronizan sin problemas. Y lo más importante, teje estas maravillas mientras respeta la privacidad y el control del usuario.
 
@@ -46,7 +46,7 @@ ZK, cariñosamente llamado "Magia Moon Math", es una maravilla de la tecnología
 
 Creemos que para servir como base de la Internet del Valor, las redes descentralizadas deben adherirse a los siguientes principios:
 
-> **Sin Confianza (Trustlessness).** Los usuarios deben poder verificar la integridad de las transacciones y el estado de la red de forma independiente, sin depender de terceros.
+> **Sin Confianza.** Los usuarios deben poder verificar la integridad de las transacciones y el estado de la red de forma independiente, sin depender de terceros.
 >
 > **Seguridad.** Un ataque a cualquier usuario individual debe ser tan difícil y costoso como atacar toda la red, incluso para los actores más poderosos del mundo.
 >
@@ -90,8 +90,8 @@ Sigamos siendo firmes en la defensa de la auto-propiedad digital.
 
 Adelante. 
 
-[^1]: [El Estado de la Red (The Network State)](https://thenetworkstate.com/the-network-state-in-one-sentence).
-[^2]: [Comprimido por Criptografía (Zipped by Kryptography)](https://twitter.com/vitalikbuterin/status/1309298689156866048)
+[^1]: [The Network State](https://thenetworkstate.com/the-network-state-in-one-sentence).
+[^2]: [Zipped by Kryptography](https://twitter.com/vitalikbuterin/status/1309298689156866048)
 [^3]: Charles Marshall, Shattering the Glass Slipper.
-[^4]: [Manifiesto Cypherpunk (Cypherpunk Manifesto)](https://nakamotoinstitute.org/static/docs/cypherpunk-manifesto.txt)
-[^5]: [Tercera Ley de Clarke (Clarke's Third Law)](https://en.wikipedia.org/wiki/Clarke%27s_three_laws)
+[^4]: [Cypherpunk Manifesto](https://nakamotoinstitute.org/static/docs/cypherpunk-manifesto.txt)
+[^5]: [Clarke's Third Law](https://en.wikipedia.org/wiki/Clarke%27s_three_laws)
