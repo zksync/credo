@@ -56,13 +56,13 @@ We believe that to serve as the foundation of the Internet of Value, decentraliz
 > 
 > **Privacy.** Users must be able to protect their identities and transaction details. Sensitive information is not shared with others in the network without the consent of users.
 > 
-> **Hyperscalability.** The network must have the capacity to grow with no upper bound while preserving all other critical properties.
+> **Elastic scalability.** The network must have the capacity to grow with no upper bound while preserving all other critical properties.
 > 
 > **Accessibility.** Applications and services on the network must be as affordable, easy-to-use and safe as state-of-the-art centralized alternatives.
 > 
 > **Sovereignty.** Any group of users, even a minority, must have the right to exit — i.e., fork away from the network, while taking their assets with them at a minimal cost.
 
-At present, Ethereum comes closest to realizing the vision of a blockchain network forming the backbone of the Internet of Value. It stands as a trustless, secure, reliable, censorship-resistant, and sovereign network. However, it currently does not meet the remaining prerequisites: privacy, hyperscalability, and accessibility.
+At present, Ethereum comes closest to realizing the vision of a blockchain network forming the backbone of the Internet of Value. It stands as a trustless, secure, reliable, censorship-resistant, and sovereign network. However, it currently does not meet the remaining prerequisites: privacy, elastic scalability, and accessibility.
 
 Through ZK magic, Web3 on Ethereum can become a stronghold for privacy and achieve limitless scalability while maintaining integrity. In this transformative state, it will be an accessible and affordable sanctuary for digital self-ownership. 
 
