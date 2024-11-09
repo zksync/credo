@@ -9,7 +9,7 @@ Frühe Zivilisationen nutzten Buchführung und Kontenbücher, um Transaktionen z
 
 Die Industrielle Revolution, angetrieben durch technologische Durchbrüche wie die Dampfmaschine und die Mechanisierung, führte zu beispiellosem wirtschaftlichem und gesellschaftlichem Wohlstand.
 
-Im zwanzigsten Jahrhundert sorgte der Aufstieg der Kryptographie und des Internets für einen Wandel unserer Gewohnheiten. Das Kommunizieren und der Zugriff auf Informationen haben sich grundlegend verändert. Diese Erweiterung der persönlichen Freiheiten schuf wirtschaftliche Möglichkeiten für Milliarden von Menschen.
+Im zwanzigsten Jahrhundert sorgte der Aufstieg der Kryptographie und des Internets für einen Wandel unserer Gewohnheiten. Die Kommunikation und der Zugriff auf Informationen haben sich grundlegend verändert. Diese Erweiterung der persönlichen Freiheiten schuf wirtschaftliche Möglichkeiten für Milliarden von Menschen.
 
 Heute stehen wir am Anfang einer neuen Ära mit Blockchains und dem Web3. Wie es einst das Internet für Informationen tat, so verändert Web3 die Landschaft für digitales Eigentum und Wertetausch. Es bietet vielversprechende neue Formen der gesellschaftlichen Organisation, z.B. "Netzwerkstaaten" [^1].
 
